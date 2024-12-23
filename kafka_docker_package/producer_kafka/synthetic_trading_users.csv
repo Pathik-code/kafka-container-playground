@@ -1,0 +1,2010 @@
+UserID,Name,Age,City,TradingCategories,AccountBalance,ExperienceLevel
+bdc4cc8c,Samantha Hernandez,45,Hornfurt,EQ,860795.15,Expert
+bdc4cc8c,Samantha Hernandez,45,Hornfurt,DER,860795.15,Expert
+bdc4cc8c,Samantha Hernandez,45,Hornfurt,COM,860795.15,Expert
+4adc9ff3,Cheryl Schmidt,20,Lake Diana,MF,438574.37,Intermediate
+4adc9ff3,Cheryl Schmidt,20,Lake Diana,CUR,438574.37,Intermediate
+4adc9ff3,Cheryl Schmidt,20,Lake Diana,EQ,438574.37,Intermediate
+1c08d9b1,Steve Parsons,40,Lake Savannahview,BOND,737634.74,Intermediate
+1c08d9b1,Steve Parsons,40,Lake Savannahview,IDX,737634.74,Intermediate
+48a382cf,Brandy Owens,35,Brandonview,CUR,628444.02,Expert
+577f5209,Christopher Sanders,53,Rodriguezfort,BOND,171359.47,Intermediate
+577f5209,Christopher Sanders,53,Rodriguezfort,COM,171359.47,Intermediate
+577f5209,Christopher Sanders,53,Rodriguezfort,CUR,171359.47,Intermediate
+6dd988d2,Daniel Black,25,Wardshire,COM,579757.16,Expert
+6dd988d2,Daniel Black,25,Wardshire,DER,579757.16,Expert
+4aa8018d,Jill Hall,24,Rodriguezberg,CUR,231396.29,Beginner
+4aa8018d,Jill Hall,24,Rodriguezberg,COM,231396.29,Beginner
+adfedf56,Michael Sawyer,27,Vasquezland,DER,43583.23,Intermediate
+a9ca6835,Melanie Hahn,34,Robinsonside,CUR,950329.96,Intermediate
+26aed85c,Stephanie Richards,33,Laurenport,MF,303400.68,Expert
+26aed85c,Stephanie Richards,33,Laurenport,COM,303400.68,Expert
+26aed85c,Stephanie Richards,33,Laurenport,CUR,303400.68,Expert
+44624793,Jeffrey Scott,52,Craigtown,IDX,592430.2,Beginner
+44624793,Jeffrey Scott,52,Craigtown,MF,592430.2,Beginner
+1575510a,Allison Smith,36,Weaverside,EQ,703369.28,Expert
+1575510a,Allison Smith,36,Weaverside,IDX,703369.28,Expert
+803907e0,Brittney Diaz,36,West Jeffreyland,COM,125456.87,Expert
+803907e0,Brittney Diaz,36,West Jeffreyland,BOND,125456.87,Expert
+803907e0,Brittney Diaz,36,West Jeffreyland,IDX,125456.87,Expert
+464c7884,Wayne Moore,33,North Joseph,DER,662963.2,Expert
+a164401c,Jennifer Zimmerman,40,West Royland,BOND,141028.99,Beginner
+77539fec,Johnny Gonzalez,44,New Carol,EQ,461506.11,Expert
+dd2ebc81,Thomas Wade,52,Adammouth,CUR,841074.98,Intermediate
+dd2ebc81,Thomas Wade,52,Adammouth,IDX,841074.98,Intermediate
+a40a060a,Ms. Carla Garcia,48,Maloneview,BOND,285208.11,Beginner
+a40a060a,Ms. Carla Garcia,48,Maloneview,CUR,285208.11,Beginner
+03414c74,Kevin Barrett,40,South Katherine,CUR,315323.14,Beginner
+03414c74,Kevin Barrett,40,South Katherine,DER,315323.14,Beginner
+b0d8726b,Cassandra Moore,43,New Renee,CUR,758749.23,Expert
+b0d8726b,Cassandra Moore,43,New Renee,DER,758749.23,Expert
+f8c0eec6,Victor Smith,26,Port Paul,CUR,116423.68,Intermediate
+f8c0eec6,Victor Smith,26,Port Paul,COM,116423.68,Intermediate
+ce400419,Terri Cunningham,31,West Benjaminmouth,CUR,375107.84,Beginner
+93f9f574,Carrie Parker,56,Leeshire,DER,661904.54,Expert
+93f9f574,Carrie Parker,56,Leeshire,MF,661904.54,Expert
+3b86f8ce,Wayne Wheeler,57,Port Paulaburgh,MF,74367.4,Expert
+9f6cd88f,Ryan Waters,32,Meganfort,DER,322808.34,Intermediate
+9f6cd88f,Ryan Waters,32,Meganfort,CUR,322808.34,Intermediate
+26ca3761,Sarah Delgado,50,Jacquelineview,MF,27662.41,Intermediate
+26ca3761,Sarah Delgado,50,Jacquelineview,EQ,27662.41,Intermediate
+689e600d,Mr. Michael Rivera,59,Clementsfort,MF,136339.44,Intermediate
+d2c4d277,Jocelyn Jensen,30,Lake Stevenville,CUR,226246.44,Intermediate
+d2c4d277,Jocelyn Jensen,30,Lake Stevenville,DER,226246.44,Intermediate
+d2c4d277,Jocelyn Jensen,30,Lake Stevenville,EQ,226246.44,Intermediate
+aefc0f01,Lori Doyle,42,Sanchezburgh,BOND,231105.65,Beginner
+aefc0f01,Lori Doyle,42,Sanchezburgh,EQ,231105.65,Beginner
+aefc0f01,Lori Doyle,42,Sanchezburgh,COM,231105.65,Beginner
+249799cb,Dorothy Lowe,25,New Debrachester,DER,289640.09,Beginner
+e85101f4,Charles Anderson,23,East Andrewfort,CUR,383858.55,Intermediate
+e85101f4,Charles Anderson,23,East Andrewfort,MF,383858.55,Intermediate
+e85101f4,Charles Anderson,23,East Andrewfort,EQ,383858.55,Intermediate
+86a5d43e,Donna Stout,41,North Ruth,EQ,394064.19,Beginner
+86a5d43e,Donna Stout,41,North Ruth,DER,394064.19,Beginner
+86a5d43e,Donna Stout,41,North Ruth,COM,394064.19,Beginner
+43786508,Kenneth Lewis,33,Pedroland,DER,807269.43,Expert
+43786508,Kenneth Lewis,33,Pedroland,EQ,807269.43,Expert
+f3fe8a5b,Marcus Porter,51,Bethside,IDX,851674.17,Expert
+f3fe8a5b,Marcus Porter,51,Bethside,COM,851674.17,Expert
+f3fe8a5b,Marcus Porter,51,Bethside,CUR,851674.17,Expert
+ae12573c,Christopher Cline,34,North Jonathanfurt,BOND,838859.05,Intermediate
+ae12573c,Christopher Cline,34,North Jonathanfurt,COM,838859.05,Intermediate
+ce112266,Michele Phillips,28,Port Veronicaland,EQ,140543.96,Intermediate
+ce112266,Michele Phillips,28,Port Veronicaland,MF,140543.96,Intermediate
+36778978,Allison Patterson,37,Youngstad,CUR,922180.85,Expert
+36778978,Allison Patterson,37,Youngstad,DER,922180.85,Expert
+0cb34d5d,John Chang,40,Lawrencetown,CUR,74054.89,Intermediate
+0cb34d5d,John Chang,40,Lawrencetown,COM,74054.89,Intermediate
+0cb34d5d,John Chang,40,Lawrencetown,BOND,74054.89,Intermediate
+62a98a7b,Karen Gonzales,41,Michaelburgh,BOND,55407.1,Beginner
+62ace348,Allison Wright,28,South Taylor,MF,339242.6,Beginner
+62ace348,Allison Wright,28,South Taylor,CUR,339242.6,Beginner
+62ace348,Allison Wright,28,South Taylor,IDX,339242.6,Beginner
+bc8e5220,Kara Terry,48,Lake Ruth,MF,323984.49,Beginner
+bc8e5220,Kara Terry,48,Lake Ruth,DER,323984.49,Beginner
+bc8e5220,Kara Terry,48,Lake Ruth,EQ,323984.49,Beginner
+5863873a,Luis Miller,24,Woodshire,COM,527897.07,Intermediate
+5863873a,Luis Miller,24,Woodshire,MF,527897.07,Intermediate
+5863873a,Luis Miller,24,Woodshire,IDX,527897.07,Intermediate
+84309db3,Christine Castillo,53,New Julie,BOND,179647.6,Expert
+157eb31f,James Chambers,43,South Brittanystad,CUR,698523.93,Beginner
+157eb31f,James Chambers,43,South Brittanystad,MF,698523.93,Beginner
+157eb31f,James Chambers,43,South Brittanystad,DER,698523.93,Beginner
+0eae252f,Michael Herrera,29,East Kelly,CUR,944664.77,Intermediate
+0eae252f,Michael Herrera,29,East Kelly,MF,944664.77,Intermediate
+610c8df0,Tracey Mullins,23,Rodneymouth,MF,741677.69,Intermediate
+610c8df0,Tracey Mullins,23,Rodneymouth,COM,741677.69,Intermediate
+610c8df0,Tracey Mullins,23,Rodneymouth,IDX,741677.69,Intermediate
+49bfdd5c,Christopher Beasley,40,North Allisonview,MF,152160.46,Beginner
+ff4f63aa,Craig Rivera,42,Josebury,CUR,297426.75,Beginner
+ff4f63aa,Craig Rivera,42,Josebury,EQ,297426.75,Beginner
+ff4f63aa,Craig Rivera,42,Josebury,IDX,297426.75,Beginner
+f15a319d,Diane Johnson,50,New Adrianchester,MF,989000.29,Beginner
+3b21bfac,Nicholas Brown,55,Lake Robert,COM,477434.67,Expert
+a5faabdb,Patricia Friedman,29,Mannton,COM,653566.56,Expert
+a5faabdb,Patricia Friedman,29,Mannton,CUR,653566.56,Expert
+a5faabdb,Patricia Friedman,29,Mannton,EQ,653566.56,Expert
+697ae7d6,Rachel Yu,56,Finleyland,IDX,636338.54,Beginner
+697ae7d6,Rachel Yu,56,Finleyland,COM,636338.54,Beginner
+a2d71128,Nathan Scott,46,Port Becky,MF,649002.85,Intermediate
+90827ffd,Jordan Harper,51,East Alexanderberg,EQ,152702.31,Beginner
+90827ffd,Jordan Harper,51,East Alexanderberg,MF,152702.31,Beginner
+90827ffd,Jordan Harper,51,East Alexanderberg,DER,152702.31,Beginner
+342cac8a,Paula Chapman,20,West Melissahaven,BOND,637747.48,Beginner
+6df18721,Lisa Fry,31,Suzannehaven,IDX,878516.25,Expert
+6df18721,Lisa Fry,31,Suzannehaven,EQ,878516.25,Expert
+6df18721,Lisa Fry,31,Suzannehaven,COM,878516.25,Expert
+ea91046d,Chase Thomas,52,New Christopherstad,DER,68219.13,Intermediate
+75174676,James Simon,44,Port Jenniferfurt,MF,952894.47,Expert
+75174676,James Simon,44,Port Jenniferfurt,EQ,952894.47,Expert
+66b4cdee,Trevor Reilly,46,Williamsmouth,IDX,674167.88,Expert
+6d743693,Christopher Klein,26,Chungtown,COM,211624.72,Intermediate
+6d743693,Christopher Klein,26,Chungtown,CUR,211624.72,Intermediate
+6d743693,Christopher Klein,26,Chungtown,IDX,211624.72,Intermediate
+2f4134f3,James Ortiz,54,Tuckerburgh,COM,19552.95,Intermediate
+2f4134f3,James Ortiz,54,Tuckerburgh,IDX,19552.95,Intermediate
+c65266cd,Mary Reilly,43,West Teresa,MF,44306.56,Intermediate
+c65266cd,Mary Reilly,43,West Teresa,EQ,44306.56,Intermediate
+c65266cd,Mary Reilly,43,West Teresa,DER,44306.56,Intermediate
+10087e7f,Jennifer Lee,52,North Anne,MF,75942.61,Expert
+0911f849,James Jones,50,Johnbury,CUR,635701.25,Intermediate
+0911f849,James Jones,50,Johnbury,IDX,635701.25,Intermediate
+0911f849,James Jones,50,Johnbury,EQ,635701.25,Intermediate
+ca45c236,Jason Buckley,50,Lake Gabriella,EQ,715764.06,Intermediate
+ca45c236,Jason Buckley,50,Lake Gabriella,COM,715764.06,Intermediate
+ca45c236,Jason Buckley,50,Lake Gabriella,BOND,715764.06,Intermediate
+77472e10,Lindsey Simon,53,Lake Anthonyberg,MF,615948.97,Expert
+77472e10,Lindsey Simon,53,Lake Anthonyberg,EQ,615948.97,Expert
+77472e10,Lindsey Simon,53,Lake Anthonyberg,CUR,615948.97,Expert
+df280fa7,Samantha Johnson,41,New Stephanieview,EQ,988150.35,Beginner
+df280fa7,Samantha Johnson,41,New Stephanieview,BOND,988150.35,Beginner
+1a31a2df,Rebecca Cunningham,32,Rubenfort,IDX,396609.9,Intermediate
+1a31a2df,Rebecca Cunningham,32,Rubenfort,MF,396609.9,Intermediate
+b0b1ce53,Donald Mosley,46,South Charlesstad,IDX,600245.12,Beginner
+b0b1ce53,Donald Mosley,46,South Charlesstad,MF,600245.12,Beginner
+c725e7db,Diana Smith,35,West Ashley,MF,317751.73,Expert
+33701071,Cameron Russell,21,New Kathleenmouth,DER,613176.65,Beginner
+66ae5515,Danielle Robinson DDS,58,Michaelside,COM,938860.83,Intermediate
+66ae5515,Danielle Robinson DDS,58,Michaelside,EQ,938860.83,Intermediate
+f1a41b98,Misty Gay,27,Sarahport,EQ,66072.6,Beginner
+f1a41b98,Misty Gay,27,Sarahport,COM,66072.6,Beginner
+f1a41b98,Misty Gay,27,Sarahport,MF,66072.6,Beginner
+9adaca0b,Brett Matthews,41,Rushland,MF,58621.59,Expert
+9adaca0b,Brett Matthews,41,Rushland,IDX,58621.59,Expert
+9adaca0b,Brett Matthews,41,Rushland,CUR,58621.59,Expert
+3e4dd2bb,Francisco Lee,47,Martinville,BOND,343384.14,Intermediate
+3e4dd2bb,Francisco Lee,47,Martinville,DER,343384.14,Intermediate
+cf2083d8,David Finley,30,Allenbury,MF,520896.79,Intermediate
+cf2083d8,David Finley,30,Allenbury,EQ,520896.79,Intermediate
+cf2083d8,David Finley,30,Allenbury,COM,520896.79,Intermediate
+678bc0a0,Richard Mora,38,Lake Rebeccaville,CUR,892897.11,Expert
+678bc0a0,Richard Mora,38,Lake Rebeccaville,EQ,892897.11,Expert
+678bc0a0,Richard Mora,38,Lake Rebeccaville,IDX,892897.11,Expert
+46315205,Angelica Lopez,55,North Andreaburgh,IDX,629492.33,Beginner
+46315205,Angelica Lopez,55,North Andreaburgh,DER,629492.33,Beginner
+788d5157,Douglas Martin,49,Lake Thomasfort,DER,554944.67,Expert
+788d5157,Douglas Martin,49,Lake Thomasfort,MF,554944.67,Expert
+329aedb5,Michael Armstrong,57,Sherriborough,MF,460493.09,Expert
+329aedb5,Michael Armstrong,57,Sherriborough,COM,460493.09,Expert
+54493d4c,Deborah Coleman,20,West Staceyview,COM,716640.99,Beginner
+54493d4c,Deborah Coleman,20,West Staceyview,BOND,716640.99,Beginner
+415a13cc,Joshua Pearson,26,Port Thomasberg,COM,721054.39,Expert
+415a13cc,Joshua Pearson,26,Port Thomasberg,CUR,721054.39,Expert
+5d0c4672,Misty Jones,34,West Michele,DER,769390.12,Expert
+5d0c4672,Misty Jones,34,West Michele,MF,769390.12,Expert
+5d0c4672,Misty Jones,34,West Michele,BOND,769390.12,Expert
+1d96dac8,James Smith,42,Erikberg,CUR,976759.18,Intermediate
+5dcf6e3b,Adam Massey,23,West Susan,IDX,694753.76,Intermediate
+5dcf6e3b,Adam Massey,23,West Susan,BOND,694753.76,Intermediate
+59385c22,Sherry Jensen,38,South James,BOND,95398.27,Intermediate
+59385c22,Sherry Jensen,38,South James,MF,95398.27,Intermediate
+59385c22,Sherry Jensen,38,South James,IDX,95398.27,Intermediate
+41f7ea4c,Katherine Braun,27,Carolineland,DER,864611.0,Intermediate
+41f7ea4c,Katherine Braun,27,Carolineland,EQ,864611.0,Intermediate
+cad184f9,Frank Johnson,45,Kellerton,MF,485429.98,Expert
+97673e96,Lisa Abbott,55,Port Douglasburgh,CUR,264433.89,Intermediate
+ce24617b,Laura Ellis,52,Walkerview,BOND,307999.26,Beginner
+ce24617b,Laura Ellis,52,Walkerview,CUR,307999.26,Beginner
+a1a2561d,Rebekah Whitney,25,Lynchview,CUR,899718.08,Expert
+8d2e7e87,Jason Cox,25,New Markbury,CUR,51839.51,Expert
+8d2e7e87,Jason Cox,25,New Markbury,DER,51839.51,Expert
+fa47611c,Crystal Nguyen,53,West Krystal,DER,410673.34,Expert
+edef520b,Brittany Tran,27,East Terri,MF,59060.13,Intermediate
+edef520b,Brittany Tran,27,East Terri,COM,59060.13,Intermediate
+fc5430ad,Madison Johnson,45,Kingborough,DER,516996.7,Intermediate
+fa15a22a,Troy Johnston,50,North Leonard,IDX,525917.57,Beginner
+fa15a22a,Troy Johnston,50,North Leonard,CUR,525917.57,Beginner
+791f151c,Laura Morris,43,East Jamesstad,IDX,557711.19,Intermediate
+04eda44b,Jose Brown,40,Garciastad,IDX,49382.72,Expert
+04eda44b,Jose Brown,40,Garciastad,CUR,49382.72,Expert
+3527649b,Courtney Underwood,56,Rachelland,MF,874007.48,Expert
+327c49f6,Christopher Webb,49,Karinaville,IDX,196667.24,Intermediate
+327c49f6,Christopher Webb,49,Karinaville,DER,196667.24,Intermediate
+9d461b5b,Victoria Morris,34,Codyside,EQ,43127.99,Expert
+9d461b5b,Victoria Morris,34,Codyside,BOND,43127.99,Expert
+f7de24c6,Douglas Kramer,26,Johnsonstad,BOND,986365.0,Intermediate
+f7de24c6,Douglas Kramer,26,Johnsonstad,DER,986365.0,Intermediate
+f7de24c6,Douglas Kramer,26,Johnsonstad,COM,986365.0,Intermediate
+9ba954c2,Tina Jackson,39,Joshuatown,IDX,528865.99,Intermediate
+9ba954c2,Tina Jackson,39,Joshuatown,CUR,528865.99,Intermediate
+788827cb,James Bryant,32,Lake Sethbury,DER,243513.04,Intermediate
+788827cb,James Bryant,32,Lake Sethbury,EQ,243513.04,Intermediate
+6bea5ce5,Patrick Monroe,25,Lake Mirandaberg,EQ,40456.82,Beginner
+6bea5ce5,Patrick Monroe,25,Lake Mirandaberg,MF,40456.82,Beginner
+a54c7603,Deborah Powell,37,Samanthafort,COM,193423.5,Intermediate
+a54c7603,Deborah Powell,37,Samanthafort,EQ,193423.5,Intermediate
+957a452b,Mike Scott,24,New Jenniferville,IDX,281343.06,Beginner
+957a452b,Mike Scott,24,New Jenniferville,MF,281343.06,Beginner
+957a452b,Mike Scott,24,New Jenniferville,COM,281343.06,Beginner
+d09431f8,Deborah Case,37,Stacymouth,COM,354021.43,Intermediate
+d09431f8,Deborah Case,37,Stacymouth,EQ,354021.43,Intermediate
+2f38eed6,Karen Miller,48,East Anthonyburgh,MF,159887.37,Beginner
+2f38eed6,Karen Miller,48,East Anthonyburgh,DER,159887.37,Beginner
+2f38eed6,Karen Miller,48,East Anthonyburgh,IDX,159887.37,Beginner
+23976e9e,Melissa Castro,58,Rebeccaside,BOND,806707.87,Beginner
+5f62ba09,Kevin Hernandez,43,South Laura,COM,575992.53,Intermediate
+5f62ba09,Kevin Hernandez,43,South Laura,CUR,575992.53,Intermediate
+5f62ba09,Kevin Hernandez,43,South Laura,IDX,575992.53,Intermediate
+c20b6475,Darrell Hunter,43,Fosterfurt,EQ,611540.64,Expert
+372753d6,Kenneth Hart,47,Port Susanhaven,MF,829994.66,Intermediate
+372753d6,Kenneth Hart,47,Port Susanhaven,BOND,829994.66,Intermediate
+3a62bfff,Kristie Jordan,47,Taraside,IDX,516036.28,Expert
+3a62bfff,Kristie Jordan,47,Taraside,DER,516036.28,Expert
+39ab82a7,Joshua Patterson,33,South Mollyfort,EQ,449819.58,Intermediate
+6275cef3,Abigail Bennett,56,South Jennifer,COM,352499.33,Intermediate
+93d26e5b,Kathy Cole,51,West Daniel,MF,813236.74,Intermediate
+93d26e5b,Kathy Cole,51,West Daniel,BOND,813236.74,Intermediate
+0ee02b5e,Jose Simmons,45,West Williammouth,DER,582373.94,Intermediate
+0ee02b5e,Jose Simmons,45,West Williammouth,CUR,582373.94,Intermediate
+0ee02b5e,Jose Simmons,45,West Williammouth,MF,582373.94,Intermediate
+0df6b391,Barbara Brown,25,Noahview,BOND,955478.99,Intermediate
+0df6b391,Barbara Brown,25,Noahview,DER,955478.99,Intermediate
+644ce974,Darren Walters,59,South Matthewmouth,CUR,88832.56,Intermediate
+644ce974,Darren Walters,59,South Matthewmouth,IDX,88832.56,Intermediate
+238c9e19,Deborah Anderson,21,New Anneshire,CUR,767408.36,Intermediate
+238c9e19,Deborah Anderson,21,New Anneshire,EQ,767408.36,Intermediate
+e0dea8da,Todd Grimes,43,North Christophermouth,CUR,743378.02,Expert
+0ae4b100,Michelle Mclaughlin,27,West Rhondaside,BOND,96366.98,Beginner
+0ae4b100,Michelle Mclaughlin,27,West Rhondaside,MF,96366.98,Beginner
+cb5c9e9d,Pamela Sanchez,23,Lake Richard,CUR,313740.51,Expert
+cb5c9e9d,Pamela Sanchez,23,Lake Richard,MF,313740.51,Expert
+dba761fd,Michelle Pacheco,26,West Robertfurt,CUR,541648.19,Intermediate
+dba761fd,Michelle Pacheco,26,West Robertfurt,MF,541648.19,Intermediate
+dba761fd,Michelle Pacheco,26,West Robertfurt,EQ,541648.19,Intermediate
+86aa9652,Madeline Pope,27,North Kenneth,EQ,580412.64,Expert
+86aa9652,Madeline Pope,27,North Kenneth,MF,580412.64,Expert
+89bbcf8b,Adriana Whitehead,40,Gomezfort,COM,820929.62,Expert
+89bbcf8b,Adriana Whitehead,40,Gomezfort,DER,820929.62,Expert
+89bbcf8b,Adriana Whitehead,40,Gomezfort,MF,820929.62,Expert
+180b4339,Diane Johnson,30,South Amandaberg,COM,437179.92,Beginner
+7cd8b1d4,Bradley Taylor,32,Jamesville,IDX,807293.67,Intermediate
+7cd8b1d4,Bradley Taylor,32,Jamesville,CUR,807293.67,Intermediate
+d1fb1e38,Jennifer Riley,26,Padillastad,CUR,571998.86,Expert
+d1fb1e38,Jennifer Riley,26,Padillastad,DER,571998.86,Expert
+b7586622,Cory Howell,25,Andreaberg,MF,857761.82,Expert
+b7586622,Cory Howell,25,Andreaberg,CUR,857761.82,Expert
+0d8ba72b,Derrick Wade,22,Christineville,BOND,841379.34,Beginner
+379a49da,Trevor Macdonald,59,New Alexandra,BOND,848847.86,Beginner
+379a49da,Trevor Macdonald,59,New Alexandra,IDX,848847.86,Beginner
+379a49da,Trevor Macdonald,59,New Alexandra,MF,848847.86,Beginner
+d23038c8,Megan Wilson,34,Charlesmouth,BOND,607970.91,Intermediate
+d23038c8,Megan Wilson,34,Charlesmouth,EQ,607970.91,Intermediate
+d23038c8,Megan Wilson,34,Charlesmouth,CUR,607970.91,Intermediate
+8d048fb1,Casey Nguyen,35,Thomashaven,MF,318146.94,Intermediate
+6dd02beb,Nicole Dixon,40,Melanieport,MF,820179.61,Beginner
+6dd02beb,Nicole Dixon,40,Melanieport,COM,820179.61,Beginner
+c5203162,Chad Young,32,Shepherdborough,DER,177623.68,Expert
+c5203162,Chad Young,32,Shepherdborough,CUR,177623.68,Expert
+7c867380,John Palmer,36,Brittanyfort,EQ,585604.41,Intermediate
+340dcab2,Tyler Herrera MD,29,Fullerborough,MF,556434.41,Expert
+340dcab2,Tyler Herrera MD,29,Fullerborough,COM,556434.41,Expert
+2a587ae6,Rachel Johnson,55,Port Michael,COM,311514.35,Beginner
+af632e06,Lindsey Castro,52,New Dylanmouth,EQ,351783.44,Expert
+af632e06,Lindsey Castro,52,New Dylanmouth,MF,351783.44,Expert
+0e1d7ab0,Randy Armstrong,53,South Edward,COM,275303.59,Expert
+0e1d7ab0,Randy Armstrong,53,South Edward,IDX,275303.59,Expert
+0e1d7ab0,Randy Armstrong,53,South Edward,EQ,275303.59,Expert
+071f4bab,Cheryl Davis,51,East Bryan,EQ,661810.72,Intermediate
+071f4bab,Cheryl Davis,51,East Bryan,IDX,661810.72,Intermediate
+071f4bab,Cheryl Davis,51,East Bryan,CUR,661810.72,Intermediate
+72e813e3,Julie Meyer,30,Edwinburgh,CUR,233507.34,Beginner
+72e813e3,Julie Meyer,30,Edwinburgh,IDX,233507.34,Beginner
+eaf1cf79,Marissa Levine,32,Gilbertberg,IDX,415760.49,Expert
+eaf1cf79,Marissa Levine,32,Gilbertberg,MF,415760.49,Expert
+9a2c21ba,Mr. Kevin Shaw,37,Riveramouth,EQ,79669.91,Beginner
+9a2c21ba,Mr. Kevin Shaw,37,Riveramouth,IDX,79669.91,Beginner
+3701a4a6,Adriana Higgins,34,North Christophermouth,DER,911202.3,Beginner
+3701a4a6,Adriana Higgins,34,North Christophermouth,COM,911202.3,Beginner
+3701a4a6,Adriana Higgins,34,North Christophermouth,EQ,911202.3,Beginner
+fe49ae67,John Hansen,59,Dianebury,MF,962404.65,Intermediate
+b477aedc,Johnny Robbins,38,East Michaelland,EQ,130836.26,Expert
+b477aedc,Johnny Robbins,38,East Michaelland,DER,130836.26,Expert
+e574ff02,Jeff Irwin,26,Amymouth,MF,342125.11,Intermediate
+e574ff02,Jeff Irwin,26,Amymouth,EQ,342125.11,Intermediate
+8d2d969a,Jeffrey Jackson,23,Markville,BOND,615321.49,Expert
+8d2d969a,Jeffrey Jackson,23,Markville,MF,615321.49,Expert
+8d2d969a,Jeffrey Jackson,23,Markville,EQ,615321.49,Expert
+46f42ef7,Tyler Warren,51,East Sandraport,MF,460935.19,Expert
+5ae1da95,Garrett Morales,41,Lake Seanfurt,CUR,175946.99,Beginner
+5ae1da95,Garrett Morales,41,Lake Seanfurt,EQ,175946.99,Beginner
+e8a21d34,Nicole Dominguez,30,Jeremyview,CUR,228527.92,Intermediate
+e8a21d34,Nicole Dominguez,30,Jeremyview,BOND,228527.92,Intermediate
+e8a21d34,Nicole Dominguez,30,Jeremyview,IDX,228527.92,Intermediate
+8021fb75,Katherine Carney,42,South Justinville,COM,368536.69,Beginner
+8021fb75,Katherine Carney,42,South Justinville,DER,368536.69,Beginner
+2bb68a06,Jennifer Bradshaw,36,East Lisa,CUR,276258.42,Beginner
+2bb68a06,Jennifer Bradshaw,36,East Lisa,BOND,276258.42,Beginner
+2bb68a06,Jennifer Bradshaw,36,East Lisa,MF,276258.42,Beginner
+d9e2dfd5,Jennifer George,24,Matthewfurt,IDX,810277.51,Intermediate
+d9e2dfd5,Jennifer George,24,Matthewfurt,DER,810277.51,Intermediate
+01f60fef,Karla Knight,36,Hannahburgh,IDX,492779.28,Beginner
+41a22ae8,Zachary Lee,34,West Michael,IDX,378498.88,Intermediate
+41a22ae8,Zachary Lee,34,West Michael,COM,378498.88,Intermediate
+41a22ae8,Zachary Lee,34,West Michael,EQ,378498.88,Intermediate
+0ea56c5c,Kathleen Park,27,Port Sandraville,IDX,799886.21,Intermediate
+0ea56c5c,Kathleen Park,27,Port Sandraville,CUR,799886.21,Intermediate
+fc6cfb35,Mark Martin,48,North Ronaldbury,CUR,935446.68,Expert
+1077b03a,Derek Bowen,47,Lake Nicoleton,COM,563873.19,Expert
+1077b03a,Derek Bowen,47,Lake Nicoleton,MF,563873.19,Expert
+1077b03a,Derek Bowen,47,Lake Nicoleton,EQ,563873.19,Expert
+4bbd2d13,Donna Mitchell,28,Andersonstad,CUR,323439.21,Intermediate
+4bbd2d13,Donna Mitchell,28,Andersonstad,MF,323439.21,Intermediate
+4bbd2d13,Donna Mitchell,28,Andersonstad,BOND,323439.21,Intermediate
+98754bb5,Lindsey Skinner,38,West Dianebury,COM,140014.79,Intermediate
+a838b587,Sean Francis,31,Castilloport,CUR,22171.66,Beginner
+a838b587,Sean Francis,31,Castilloport,MF,22171.66,Beginner
+a838b587,Sean Francis,31,Castilloport,COM,22171.66,Beginner
+fc0407c5,Destiny Benitez,24,North Christianborough,MF,12934.61,Beginner
+fc0407c5,Destiny Benitez,24,North Christianborough,IDX,12934.61,Beginner
+2ce0f7e5,Matthew Colon,46,West Rhonda,MF,319368.2,Beginner
+87ffe7ac,Mr. John Montgomery,58,West Terri,MF,157932.54,Beginner
+87ffe7ac,Mr. John Montgomery,58,West Terri,BOND,157932.54,Beginner
+87ffe7ac,Mr. John Montgomery,58,West Terri,CUR,157932.54,Beginner
+c97bb2eb,Richard Weber,34,Sparkston,IDX,532695.09,Beginner
+c97bb2eb,Richard Weber,34,Sparkston,BOND,532695.09,Beginner
+c97bb2eb,Richard Weber,34,Sparkston,DER,532695.09,Beginner
+d7d4976b,Ashley Hoover,48,Andreaborough,IDX,510110.29,Expert
+d7d4976b,Ashley Hoover,48,Andreaborough,CUR,510110.29,Expert
+d7d4976b,Ashley Hoover,48,Andreaborough,EQ,510110.29,Expert
+4ab4f600,Jennifer Mcguire,53,Clarkborough,CUR,568486.42,Intermediate
+92911908,Sarah Banks,49,Martinezport,CUR,400809.02,Beginner
+92911908,Sarah Banks,49,Martinezport,BOND,400809.02,Beginner
+92911908,Sarah Banks,49,Martinezport,DER,400809.02,Beginner
+43c67299,Mark Hurst,51,South Victorland,MF,786308.4,Intermediate
+43c67299,Mark Hurst,51,South Victorland,CUR,786308.4,Intermediate
+d2a2dd26,Mary Russell,51,West Kiara,EQ,596796.82,Intermediate
+d2a2dd26,Mary Russell,51,West Kiara,BOND,596796.82,Intermediate
+6b9f40ad,Kendra Horne,58,West Nicholashaven,BOND,355735.02,Expert
+6b9f40ad,Kendra Horne,58,West Nicholashaven,MF,355735.02,Expert
+6b9f40ad,Kendra Horne,58,West Nicholashaven,IDX,355735.02,Expert
+1689fc35,Kimberly Franklin,30,Gonzalezfort,CUR,153447.94,Beginner
+1689fc35,Kimberly Franklin,30,Gonzalezfort,BOND,153447.94,Beginner
+d5eaad0f,Joshua Thompson,55,New Jeffport,EQ,372298.57,Intermediate
+1e596cf2,Cameron Henderson,22,East Laura,COM,576914.2,Beginner
+6bb176ec,Wendy Fields,23,Hunttown,CUR,50809.27,Intermediate
+6bb176ec,Wendy Fields,23,Hunttown,IDX,50809.27,Intermediate
+2ca7133a,Patrick Robinson,37,Lake Justinville,MF,727306.04,Expert
+2ca7133a,Patrick Robinson,37,Lake Justinville,CUR,727306.04,Expert
+40feee01,Douglas Lam,23,West Tracieside,EQ,517664.21,Beginner
+cb24f3cb,George Ward,31,Port Dannyview,CUR,746019.46,Beginner
+cb24f3cb,George Ward,31,Port Dannyview,EQ,746019.46,Beginner
+2605fd90,Stephanie Jacobs,55,Chavezland,MF,646607.54,Intermediate
+94f30485,Anthony Miles,45,Lisafurt,EQ,285984.76,Expert
+94f30485,Anthony Miles,45,Lisafurt,DER,285984.76,Expert
+0edf973c,Mike Vasquez,44,Austinshire,EQ,251636.2,Beginner
+0edf973c,Mike Vasquez,44,Austinshire,MF,251636.2,Beginner
+8ad44059,James Jones,42,Port Nicholas,IDX,510588.44,Expert
+8ad44059,James Jones,42,Port Nicholas,BOND,510588.44,Expert
+8ad44059,James Jones,42,Port Nicholas,DER,510588.44,Expert
+7e41fa55,Wayne Davis,55,Cooperbury,DER,365749.29,Intermediate
+7e41fa55,Wayne Davis,55,Cooperbury,MF,365749.29,Intermediate
+683ce270,Ryan Jarvis,20,Ramirezmouth,IDX,823694.06,Expert
+683ce270,Ryan Jarvis,20,Ramirezmouth,COM,823694.06,Expert
+683ce270,Ryan Jarvis,20,Ramirezmouth,DER,823694.06,Expert
+402d5a27,Felicia Gomez,20,New Brian,IDX,925566.83,Intermediate
+402d5a27,Felicia Gomez,20,New Brian,DER,925566.83,Intermediate
+402d5a27,Felicia Gomez,20,New Brian,BOND,925566.83,Intermediate
+226f7b21,Emily Jackson,43,Sheaview,CUR,235449.26,Beginner
+226f7b21,Emily Jackson,43,Sheaview,BOND,235449.26,Beginner
+9ec89fb0,Michele Neal,48,Port Michael,IDX,875075.33,Beginner
+9ec89fb0,Michele Neal,48,Port Michael,BOND,875075.33,Beginner
+8baeda8c,Sharon Miller,37,South Joshua,IDX,482256.62,Beginner
+8baeda8c,Sharon Miller,37,South Joshua,COM,482256.62,Beginner
+7e1f8e47,Cameron Harvey,40,South Michaelborough,EQ,296721.53,Beginner
+7e1f8e47,Cameron Harvey,40,South Michaelborough,MF,296721.53,Beginner
+7e1f8e47,Cameron Harvey,40,South Michaelborough,BOND,296721.53,Beginner
+f2eb6b1a,Joanna Lopez,38,South Derekfort,DER,735654.87,Expert
+f2eb6b1a,Joanna Lopez,38,South Derekfort,EQ,735654.87,Expert
+14bb3a57,Ryan Harrison,47,South Nathanburgh,MF,251656.58,Intermediate
+4cdc8e98,Mark Osborne,48,Lake Deanberg,MF,257431.86,Beginner
+2732cbaf,Matthew West,42,Adrienneport,COM,623985.08,Expert
+2732cbaf,Matthew West,42,Adrienneport,MF,623985.08,Expert
+a365ae95,Lisa Rubio,25,Conwaychester,BOND,811385.35,Expert
+ae77f17b,Justin Mendoza,50,North Samanthachester,MF,742845.67,Expert
+ae77f17b,Justin Mendoza,50,North Samanthachester,BOND,742845.67,Expert
+bea801ef,Martha Freeman,35,North Bryanfurt,EQ,364137.84,Beginner
+bea801ef,Martha Freeman,35,North Bryanfurt,DER,364137.84,Beginner
+bea801ef,Martha Freeman,35,North Bryanfurt,BOND,364137.84,Beginner
+f9b46776,Allison Rosario,59,East Jacob,DER,24767.56,Beginner
+37dd30b6,Sandra Garcia,54,Port Frankbury,CUR,710935.31,Expert
+37dd30b6,Sandra Garcia,54,Port Frankbury,EQ,710935.31,Expert
+37dd30b6,Sandra Garcia,54,Port Frankbury,MF,710935.31,Expert
+0d189b05,Jeffery Preston,58,West Jamestown,MF,268606.23,Expert
+0d189b05,Jeffery Preston,58,West Jamestown,COM,268606.23,Expert
+e7fcb746,Paula Kennedy,23,East Dominic,CUR,315823.55,Intermediate
+e7fcb746,Paula Kennedy,23,East Dominic,EQ,315823.55,Intermediate
+6d74a01a,Michael Lara,25,North Michelle,IDX,980698.69,Expert
+6d74a01a,Michael Lara,25,North Michelle,EQ,980698.69,Expert
+6d74a01a,Michael Lara,25,North Michelle,COM,980698.69,Expert
+538fdc98,Theresa Johnson,39,West Randy,BOND,193556.44,Beginner
+538fdc98,Theresa Johnson,39,West Randy,COM,193556.44,Beginner
+538fdc98,Theresa Johnson,39,West Randy,CUR,193556.44,Beginner
+6f9570a2,Timothy Davis,51,Port Johnstad,IDX,565073.85,Beginner
+6f9570a2,Timothy Davis,51,Port Johnstad,MF,565073.85,Beginner
+6f9570a2,Timothy Davis,51,Port Johnstad,COM,565073.85,Beginner
+c2ad1538,Lisa Olson,36,Mariachester,BOND,787903.26,Expert
+c2ad1538,Lisa Olson,36,Mariachester,EQ,787903.26,Expert
+c2ad1538,Lisa Olson,36,Mariachester,MF,787903.26,Expert
+e09d0667,Sydney Ramirez MD,45,North Jay,BOND,674352.23,Expert
+3af3117e,Robert Meyer,31,Lake Kathyview,DER,204776.45,Beginner
+3af3117e,Robert Meyer,31,Lake Kathyview,IDX,204776.45,Beginner
+3af3117e,Robert Meyer,31,Lake Kathyview,CUR,204776.45,Beginner
+bcd19595,Colin Lester,47,Stephaniemouth,IDX,925183.78,Beginner
+bcd19595,Colin Lester,47,Stephaniemouth,CUR,925183.78,Beginner
+bcd19595,Colin Lester,47,Stephaniemouth,MF,925183.78,Beginner
+85917689,Lauren Henderson,37,Christopherfort,CUR,902722.59,Expert
+85917689,Lauren Henderson,37,Christopherfort,MF,902722.59,Expert
+57cc2507,Robert Patterson,25,Michaelchester,MF,62143.0,Intermediate
+6353ca92,David Reilly,44,Lake Patricia,DER,99500.32,Expert
+acd4e506,Heather Walsh,40,Douglasview,IDX,341029.07,Expert
+acd4e506,Heather Walsh,40,Douglasview,COM,341029.07,Expert
+acd4e506,Heather Walsh,40,Douglasview,EQ,341029.07,Expert
+2ffb3e02,Christine Martinez,21,New Shaneland,IDX,76831.47,Beginner
+2ffb3e02,Christine Martinez,21,New Shaneland,CUR,76831.47,Beginner
+cfc5c5c8,Megan Burke,20,North Martin,COM,56378.51,Expert
+cfc5c5c8,Megan Burke,20,North Martin,CUR,56378.51,Expert
+cfc5c5c8,Megan Burke,20,North Martin,MF,56378.51,Expert
+229d890c,Sara Nelson,40,Herrerafurt,MF,370769.34,Beginner
+229d890c,Sara Nelson,40,Herrerafurt,COM,370769.34,Beginner
+229d890c,Sara Nelson,40,Herrerafurt,EQ,370769.34,Beginner
+4fcddc78,Kathleen Hill,42,Lake Kristenview,CUR,317583.48,Beginner
+4fcddc78,Kathleen Hill,42,Lake Kristenview,MF,317583.48,Beginner
+a66d27ce,John Smith,54,North Lisa,MF,886503.94,Intermediate
+a66d27ce,John Smith,54,North Lisa,BOND,886503.94,Intermediate
+569bc433,Emily Herring,44,Laurenland,EQ,892958.95,Beginner
+569bc433,Emily Herring,44,Laurenland,IDX,892958.95,Beginner
+908935e1,Tammy Pineda,59,East Daisy,DER,361321.84,Expert
+908935e1,Tammy Pineda,59,East Daisy,BOND,361321.84,Expert
+1f92aea7,Clayton Conrad,42,North Brittanyside,BOND,853831.89,Expert
+1f92aea7,Clayton Conrad,42,North Brittanyside,MF,853831.89,Expert
+1f92aea7,Clayton Conrad,42,North Brittanyside,DER,853831.89,Expert
+c954d688,James Robinson,20,South Danny,COM,332560.09,Intermediate
+c954d688,James Robinson,20,South Danny,BOND,332560.09,Intermediate
+31086027,James Hernandez,57,Samanthaport,COM,232771.1,Expert
+31086027,James Hernandez,57,Samanthaport,BOND,232771.1,Expert
+291dc123,James Buckley,49,New Stephanie,BOND,238294.82,Beginner
+bbbe42eb,Joel Davenport,30,Nicoleberg,BOND,867855.42,Expert
+9feced23,Amanda Cochran,20,Goldenstad,BOND,849899.61,Expert
+9feced23,Amanda Cochran,20,Goldenstad,IDX,849899.61,Expert
+9feced23,Amanda Cochran,20,Goldenstad,CUR,849899.61,Expert
+77107cba,Marcus Roach,20,Sarahborough,MF,792585.13,Intermediate
+54355478,Lauren Horn,50,Teresaside,EQ,870818.82,Beginner
+54355478,Lauren Horn,50,Teresaside,COM,870818.82,Beginner
+a3d20e26,Jeremy Raymond,38,South Wesley,COM,150402.27,Beginner
+a3d20e26,Jeremy Raymond,38,South Wesley,IDX,150402.27,Beginner
+a3d20e26,Jeremy Raymond,38,South Wesley,DER,150402.27,Beginner
+9b119faf,Dana Gates,25,Nancyborough,MF,682309.02,Expert
+9b119faf,Dana Gates,25,Nancyborough,DER,682309.02,Expert
+9b119faf,Dana Gates,25,Nancyborough,BOND,682309.02,Expert
+02089d88,Margaret King,35,Ramosland,COM,605238.79,Beginner
+02089d88,Margaret King,35,Ramosland,MF,605238.79,Beginner
+544db53a,Bruce Hernandez,36,West Zacharyborough,CUR,587743.04,Beginner
+544db53a,Bruce Hernandez,36,West Zacharyborough,DER,587743.04,Beginner
+544db53a,Bruce Hernandez,36,West Zacharyborough,EQ,587743.04,Beginner
+a5fb3993,Melissa Lambert,30,North Jeffrey,EQ,249853.33,Beginner
+ce07bb11,Keith Phillips,34,South Adrianshire,CUR,182474.25,Beginner
+ce07bb11,Keith Phillips,34,South Adrianshire,DER,182474.25,Beginner
+36c5fa12,Alexis Craig,56,North Thomas,COM,180893.62,Beginner
+36c5fa12,Alexis Craig,56,North Thomas,IDX,180893.62,Beginner
+36c5fa12,Alexis Craig,56,North Thomas,CUR,180893.62,Beginner
+bbdddee0,John Ramirez,45,Sarahtown,BOND,263899.62,Expert
+bbdddee0,John Ramirez,45,Sarahtown,COM,263899.62,Expert
+bbdddee0,John Ramirez,45,Sarahtown,EQ,263899.62,Expert
+acc7d161,Shawn Perkins,27,Davishaven,CUR,783134.22,Beginner
+acc7d161,Shawn Perkins,27,Davishaven,EQ,783134.22,Beginner
+ff7ff624,Cynthia Taylor,42,Rhondahaven,BOND,179194.69,Beginner
+ff7ff624,Cynthia Taylor,42,Rhondahaven,IDX,179194.69,Beginner
+53d33b39,William Patterson,46,Carlsontown,DER,357734.26,Beginner
+d193ed9a,Gregory Lee,45,South Brandy,CUR,277346.26,Expert
+d193ed9a,Gregory Lee,45,South Brandy,EQ,277346.26,Expert
+d193ed9a,Gregory Lee,45,South Brandy,BOND,277346.26,Expert
+a590bec0,Jessica Lopez,54,North Kylie,DER,769081.34,Beginner
+fea2bce3,Adriana Dennis,40,Lake Tammy,DER,412613.22,Beginner
+fea2bce3,Adriana Dennis,40,Lake Tammy,MF,412613.22,Beginner
+fea2bce3,Adriana Dennis,40,Lake Tammy,COM,412613.22,Beginner
+21cd3e8c,Heather Evans,46,Port Melanie,EQ,313966.44,Expert
+21cd3e8c,Heather Evans,46,Port Melanie,COM,313966.44,Expert
+a78b8d58,Mark Morris,30,South Nicholasberg,IDX,742750.37,Intermediate
+a78b8d58,Mark Morris,30,South Nicholasberg,EQ,742750.37,Intermediate
+a78b8d58,Mark Morris,30,South Nicholasberg,CUR,742750.37,Intermediate
+dce41532,Zachary Cooper,30,New Susan,CUR,726831.19,Expert
+dce41532,Zachary Cooper,30,New Susan,MF,726831.19,Expert
+96727ad5,Kimberly Mckinney,35,East Apriltown,EQ,594760.49,Beginner
+a5d56f05,Thomas Sims,50,West Kathrynborough,DER,511505.16,Expert
+859a71ad,Gregory Roberson,36,Ginachester,IDX,484480.66,Beginner
+1ef3fcf1,Todd Jennings,35,Travisport,MF,757492.66,Beginner
+1ef3fcf1,Todd Jennings,35,Travisport,EQ,757492.66,Beginner
+d3c2ffff,Dr. Henry Hernandez,37,South Ericafurt,IDX,24895.81,Intermediate
+d3c2ffff,Dr. Henry Hernandez,37,South Ericafurt,MF,24895.81,Intermediate
+94c3b857,Kyle Walter,48,Joseview,COM,861152.63,Intermediate
+94c3b857,Kyle Walter,48,Joseview,EQ,861152.63,Intermediate
+b6e80e04,Jason Guerrero,27,Riveraburgh,IDX,915479.39,Intermediate
+b6e80e04,Jason Guerrero,27,Riveraburgh,CUR,915479.39,Intermediate
+b6e80e04,Jason Guerrero,27,Riveraburgh,COM,915479.39,Intermediate
+ebd31881,Stacy Lowe,23,North Jessica,DER,746466.9,Intermediate
+7623d9ba,Jenna Harrison,21,East Jack,CUR,640373.69,Expert
+0864f8ae,Wendy Porter,55,East Kyle,IDX,12123.49,Expert
+0864f8ae,Wendy Porter,55,East Kyle,BOND,12123.49,Expert
+0864f8ae,Wendy Porter,55,East Kyle,COM,12123.49,Expert
+5ab4bd4a,Michael Morgan,41,Johnsonshire,CUR,428744.24,Beginner
+5ab4bd4a,Michael Morgan,41,Johnsonshire,IDX,428744.24,Beginner
+5ab4bd4a,Michael Morgan,41,Johnsonshire,DER,428744.24,Beginner
+1338ee28,Jacqueline Cole,52,Adamsberg,IDX,223485.62,Intermediate
+1338ee28,Jacqueline Cole,52,Adamsberg,EQ,223485.62,Intermediate
+1338ee28,Jacqueline Cole,52,Adamsberg,DER,223485.62,Intermediate
+99c65b71,Kathy Stevens,26,New Katelynside,DER,25182.36,Expert
+b132dafb,April Jackson,42,West Ann,COM,494410.86,Beginner
+b132dafb,April Jackson,42,West Ann,EQ,494410.86,Beginner
+50a53164,Elizabeth Ford,25,Port Jonathanport,CUR,306015.83,Beginner
+c0498e65,Travis Rodriguez,46,Williamsview,MF,610822.86,Intermediate
+640eda8f,Jason Page,22,North Ginahaven,COM,560511.4,Beginner
+640eda8f,Jason Page,22,North Ginahaven,CUR,560511.4,Beginner
+5a6245c5,Tamara Baker,58,Thompsonfurt,CUR,472988.21,Intermediate
+5a6245c5,Tamara Baker,58,Thompsonfurt,MF,472988.21,Intermediate
+5a6245c5,Tamara Baker,58,Thompsonfurt,EQ,472988.21,Intermediate
+630b2b1a,Andrew Guzman,42,Sullivanland,DER,128617.15,Expert
+630b2b1a,Andrew Guzman,42,Sullivanland,IDX,128617.15,Expert
+630b2b1a,Andrew Guzman,42,Sullivanland,COM,128617.15,Expert
+0d9cf697,Michael Henderson,53,East Kylefurt,EQ,564851.64,Intermediate
+0d9cf697,Michael Henderson,53,East Kylefurt,BOND,564851.64,Intermediate
+0d9cf697,Michael Henderson,53,East Kylefurt,MF,564851.64,Intermediate
+e1b63768,William Scott,28,North Sandy,DER,155274.35,Intermediate
+e1b63768,William Scott,28,North Sandy,BOND,155274.35,Intermediate
+e1b63768,William Scott,28,North Sandy,MF,155274.35,Intermediate
+ea3ce781,Vickie Morrison,40,Lake Kimtown,MF,166163.67,Beginner
+7305c623,Jody Edwards,41,West Robinville,CUR,605080.62,Expert
+eb26ed3c,Jimmy Hart,40,East Manuel,COM,30882.42,Intermediate
+1544be14,Jack Nelson,25,Simonfort,MF,685212.18,Expert
+1544be14,Jack Nelson,25,Simonfort,BOND,685212.18,Expert
+383674ee,Yolanda Moody,21,Smithchester,CUR,607406.41,Beginner
+383674ee,Yolanda Moody,21,Smithchester,MF,607406.41,Beginner
+383674ee,Yolanda Moody,21,Smithchester,IDX,607406.41,Beginner
+8e9ea455,Lauren Johnson,27,Nicholsonville,IDX,515807.23,Beginner
+8e9ea455,Lauren Johnson,27,Nicholsonville,BOND,515807.23,Beginner
+8e9ea455,Lauren Johnson,27,Nicholsonville,DER,515807.23,Beginner
+8b2c8abc,Cassandra Williams,21,Doughertyport,DER,228594.51,Intermediate
+8b2c8abc,Cassandra Williams,21,Doughertyport,CUR,228594.51,Intermediate
+ca213d24,Kristine Sanders,42,North Annette,COM,547445.27,Intermediate
+ca213d24,Kristine Sanders,42,North Annette,IDX,547445.27,Intermediate
+ca213d24,Kristine Sanders,42,North Annette,EQ,547445.27,Intermediate
+4a5f8cee,Mariah Barnett,39,New Raymond,EQ,859160.09,Beginner
+e472e751,Cheryl Sheppard,54,Lake Randyshire,IDX,183638.31,Intermediate
+e472e751,Cheryl Sheppard,54,Lake Randyshire,EQ,183638.31,Intermediate
+e472e751,Cheryl Sheppard,54,Lake Randyshire,CUR,183638.31,Intermediate
+8efefc8c,Karen Soto,55,Dominguezmouth,DER,496322.81,Expert
+8efefc8c,Karen Soto,55,Dominguezmouth,CUR,496322.81,Expert
+8efefc8c,Karen Soto,55,Dominguezmouth,MF,496322.81,Expert
+441152b4,George Bates,25,South Lindseyside,CUR,439932.17,Beginner
+441152b4,George Bates,25,South Lindseyside,IDX,439932.17,Beginner
+441152b4,George Bates,25,South Lindseyside,DER,439932.17,Beginner
+c6936954,Julia Nguyen,34,North Ninaton,MF,716091.21,Intermediate
+c6936954,Julia Nguyen,34,North Ninaton,DER,716091.21,Intermediate
+c6936954,Julia Nguyen,34,North Ninaton,IDX,716091.21,Intermediate
+26e89aca,Nathan Lutz,35,Lake Michael,EQ,233310.94,Beginner
+26e89aca,Nathan Lutz,35,Lake Michael,IDX,233310.94,Beginner
+5ccbc1de,Monica Smith,47,Christensenstad,CUR,860013.37,Intermediate
+5ccbc1de,Monica Smith,47,Christensenstad,MF,860013.37,Intermediate
+226113dc,Jason Goodwin,44,Port Lindaview,IDX,815927.14,Beginner
+88deb7ca,Bradley Young,56,East Cody,MF,527542.66,Beginner
+88deb7ca,Bradley Young,56,East Cody,DER,527542.66,Beginner
+1e96a629,Dennis Lee,38,Wrightmouth,CUR,465037.08,Expert
+c802405e,Kaitlyn Scott,41,Collinsport,EQ,395275.62,Intermediate
+c802405e,Kaitlyn Scott,41,Collinsport,MF,395275.62,Intermediate
+f70f93a6,Kelly Lloyd,40,Pittmanberg,EQ,451167.0,Intermediate
+f70f93a6,Kelly Lloyd,40,Pittmanberg,BOND,451167.0,Intermediate
+4c77721a,Heidi Wilson,24,Michaelchester,BOND,671336.16,Intermediate
+4c77721a,Heidi Wilson,24,Michaelchester,CUR,671336.16,Intermediate
+4c77721a,Heidi Wilson,24,Michaelchester,IDX,671336.16,Intermediate
+08068ef3,Shelia Hunt,51,Christinetown,COM,111231.11,Intermediate
+ba3119a1,Eileen Jefferson,54,Harriston,CUR,798454.47,Expert
+ba3119a1,Eileen Jefferson,54,Harriston,COM,798454.47,Expert
+ba3c7b7b,Nancy Nelson,43,North Davidstad,EQ,316841.62,Expert
+ba3c7b7b,Nancy Nelson,43,North Davidstad,BOND,316841.62,Expert
+757db6b7,Jason Thompson,53,Lake Sheila,MF,462150.29,Expert
+757db6b7,Jason Thompson,53,Lake Sheila,CUR,462150.29,Expert
+938a5027,Lisa Brown,38,North Audrey,IDX,723342.46,Expert
+938a5027,Lisa Brown,38,North Audrey,DER,723342.46,Expert
+938a5027,Lisa Brown,38,North Audrey,COM,723342.46,Expert
+99d2bc6d,Ronald Thompson,25,Webbborough,MF,75724.53,Intermediate
+3b5d40cb,Daniel Moore,29,South Cesar,CUR,345030.21,Expert
+3b5d40cb,Daniel Moore,29,South Cesar,DER,345030.21,Expert
+ac9a6bc4,Terri Lopez,38,New Scottside,IDX,331227.2,Beginner
+ac9a6bc4,Terri Lopez,38,New Scottside,COM,331227.2,Beginner
+ac9a6bc4,Terri Lopez,38,New Scottside,DER,331227.2,Beginner
+6983abfb,Nicole Thomas,52,East Brandon,BOND,31533.26,Intermediate
+6983abfb,Nicole Thomas,52,East Brandon,CUR,31533.26,Intermediate
+6983abfb,Nicole Thomas,52,East Brandon,COM,31533.26,Intermediate
+36bca4bd,Richard Rivera,39,Lindachester,IDX,688383.73,Expert
+36bca4bd,Richard Rivera,39,Lindachester,CUR,688383.73,Expert
+36bca4bd,Richard Rivera,39,Lindachester,BOND,688383.73,Expert
+cc85765d,Rebecca Bell,44,Bryanside,MF,354782.33,Beginner
+cc85765d,Rebecca Bell,44,Bryanside,DER,354782.33,Beginner
+cc85765d,Rebecca Bell,44,Bryanside,IDX,354782.33,Beginner
+47c77022,Christopher White,51,Moraborough,MF,486678.08,Expert
+1a10322f,Dawn Daniel,48,West James,EQ,38015.59,Intermediate
+1a10322f,Dawn Daniel,48,West James,COM,38015.59,Intermediate
+1a10322f,Dawn Daniel,48,West James,CUR,38015.59,Intermediate
+d68cd0dd,James Reed,21,West Amanda,EQ,733787.71,Intermediate
+d68cd0dd,James Reed,21,West Amanda,DER,733787.71,Intermediate
+d68cd0dd,James Reed,21,West Amanda,IDX,733787.71,Intermediate
+1e39944b,Lisa Rangel,59,South Cindyfurt,MF,239754.94,Expert
+1e39944b,Lisa Rangel,59,South Cindyfurt,EQ,239754.94,Expert
+606c468e,James Smith,41,Nataliechester,COM,245220.31,Beginner
+606c468e,James Smith,41,Nataliechester,MF,245220.31,Beginner
+957dc9e4,Maria Mason,56,Charlesfort,MF,115715.5,Beginner
+d2ed8dea,Travis Peterson,21,Tinaland,BOND,324479.36,Beginner
+d2ed8dea,Travis Peterson,21,Tinaland,DER,324479.36,Beginner
+356fa8e3,James Smith,35,South Samanthabury,CUR,772931.61,Intermediate
+3af42b5c,Gilbert Nelson,56,Keithshire,EQ,353934.25,Beginner
+58cdfb96,Melissa Gonzalez,49,Jillhaven,EQ,634037.54,Intermediate
+b6b037ae,Mr. Roger Zimmerman,44,East Shannonfort,COM,497330.5,Beginner
+b6b037ae,Mr. Roger Zimmerman,44,East Shannonfort,BOND,497330.5,Beginner
+b6b037ae,Mr. Roger Zimmerman,44,East Shannonfort,CUR,497330.5,Beginner
+a5dad7e0,Terry French,50,West Sandra,MF,200643.48,Beginner
+a63ed711,Dale Young,56,Boylebury,COM,960723.77,Beginner
+cad88b0c,Dennis Johnson,55,Port Jonathan,DER,305783.58,Beginner
+cad88b0c,Dennis Johnson,55,Port Jonathan,IDX,305783.58,Beginner
+cad88b0c,Dennis Johnson,55,Port Jonathan,EQ,305783.58,Beginner
+4589c93d,Jose Jackson,33,Franklinberg,BOND,869050.31,Beginner
+4589c93d,Jose Jackson,33,Franklinberg,COM,869050.31,Beginner
+ce82de44,Xavier Simmons,42,Wallaceshire,MF,656812.95,Beginner
+5f778adb,Elizabeth Kelley,52,Lake Nicoleton,BOND,959816.73,Beginner
+81398c56,Michael Mcgee,20,Alvaradobury,CUR,177742.61,Expert
+81398c56,Michael Mcgee,20,Alvaradobury,IDX,177742.61,Expert
+68ed0ad4,Erin Shannon,35,Millermouth,DER,211111.53,Intermediate
+b65695a9,Sherri Best,42,Mccarthyburgh,IDX,511595.81,Expert
+b65695a9,Sherri Best,42,Mccarthyburgh,EQ,511595.81,Expert
+cee28bde,Anthony Evans,25,Colemanhaven,DER,324911.05,Expert
+30597f49,Adrian Keller,55,Jenniferville,IDX,472189.39,Intermediate
+30597f49,Adrian Keller,55,Jenniferville,CUR,472189.39,Intermediate
+7ae00c74,Joshua Meadows,28,Lake Teresa,IDX,335264.61,Intermediate
+7ae00c74,Joshua Meadows,28,Lake Teresa,BOND,335264.61,Intermediate
+7ae00c74,Joshua Meadows,28,Lake Teresa,CUR,335264.61,Intermediate
+e05f4e0f,Elizabeth Lopez,59,Jonathanton,COM,689487.51,Expert
+1540800a,Christine Cain,49,West Christianborough,DER,38691.68,Expert
+86d34359,Sabrina Whitaker,39,East Sarahaven,COM,982348.61,Intermediate
+c9eadb68,Dawn Clark,46,Lake Cameron,COM,843424.75,Intermediate
+ef099d2d,Brenda Holt,49,Scottview,CUR,492290.51,Expert
+ef099d2d,Brenda Holt,49,Scottview,IDX,492290.51,Expert
+ef099d2d,Brenda Holt,49,Scottview,EQ,492290.51,Expert
+eb4bfcd2,Amber Lee,51,Floydchester,BOND,640471.92,Expert
+eb4bfcd2,Amber Lee,51,Floydchester,CUR,640471.92,Expert
+eb4bfcd2,Amber Lee,51,Floydchester,DER,640471.92,Expert
+1aba8a54,Michael Miles,25,North Ronnie,CUR,473557.79,Expert
+1aba8a54,Michael Miles,25,North Ronnie,IDX,473557.79,Expert
+8d0d66f2,Loretta Rodriguez,23,Robertfurt,MF,218229.8,Beginner
+8d0d66f2,Loretta Rodriguez,23,Robertfurt,BOND,218229.8,Beginner
+8d0d66f2,Loretta Rodriguez,23,Robertfurt,EQ,218229.8,Beginner
+421a1ecf,Brandy Gardner,43,Lake Danielville,MF,348448.98,Expert
+421a1ecf,Brandy Gardner,43,Lake Danielville,EQ,348448.98,Expert
+fd479747,William Walton,52,Fletcherview,BOND,375847.02,Expert
+5e0fc457,Erin Gillespie,24,Lake Marcus,COM,985808.62,Expert
+5e0fc457,Erin Gillespie,24,Lake Marcus,CUR,985808.62,Expert
+5e0fc457,Erin Gillespie,24,Lake Marcus,DER,985808.62,Expert
+4b463f76,Holly Cook,21,Lake Matthewtown,DER,712500.79,Expert
+d0d43154,Daniel Sanders,22,North Heatherchester,IDX,185960.77,Expert
+810c6403,Jamie Brady,59,Davisshire,MF,655037.28,Intermediate
+57602491,Anthony Gutierrez,50,Robinberg,COM,208050.53,Beginner
+57602491,Anthony Gutierrez,50,Robinberg,CUR,208050.53,Beginner
+043c0078,Joseph Smith,48,Hayesborough,COM,378195.52,Beginner
+043c0078,Joseph Smith,48,Hayesborough,EQ,378195.52,Beginner
+811a584c,Sandra Clark,57,Lake Beth,CUR,889210.71,Beginner
+171af534,Richard Gill,53,New Martin,EQ,878212.74,Expert
+171af534,Richard Gill,53,New Martin,IDX,878212.74,Expert
+171af534,Richard Gill,53,New Martin,MF,878212.74,Expert
+7a470ca2,Teresa Williams,36,Carterside,EQ,719896.29,Expert
+7a470ca2,Teresa Williams,36,Carterside,IDX,719896.29,Expert
+ef97ad27,Melissa Mendez,22,South Lauramouth,COM,333266.25,Beginner
+71f22248,William Williams,59,Thompsonport,CUR,827570.61,Beginner
+5fb535ab,Madison Fisher,28,Brandymouth,COM,982308.87,Expert
+7c8d2223,Alicia Parker,23,South Julie,MF,367646.05,Intermediate
+7c8d2223,Alicia Parker,23,South Julie,CUR,367646.05,Intermediate
+d873f53f,Mary King,45,Solomonview,COM,127837.41,Intermediate
+d873f53f,Mary King,45,Solomonview,DER,127837.41,Intermediate
+d873f53f,Mary King,45,Solomonview,BOND,127837.41,Intermediate
+d1954002,Thomas Henry,40,South Johnville,IDX,98432.28,Beginner
+d1954002,Thomas Henry,40,South Johnville,CUR,98432.28,Beginner
+d1954002,Thomas Henry,40,South Johnville,COM,98432.28,Beginner
+d8d8c5ef,James Dudley,39,Morrismouth,EQ,59298.47,Intermediate
+d8d8c5ef,James Dudley,39,Morrismouth,COM,59298.47,Intermediate
+d8d8c5ef,James Dudley,39,Morrismouth,IDX,59298.47,Intermediate
+cc5a3103,Tyrone Edwards,21,South Bradley,BOND,416067.35,Expert
+cc5a3103,Tyrone Edwards,21,South Bradley,MF,416067.35,Expert
+9420b56b,Michael Swanson,35,Staciefurt,IDX,973872.74,Expert
+92b97f5d,Jodi Wu,39,Michaelfort,IDX,641118.11,Beginner
+877ac841,Cynthia Macdonald,58,Greenmouth,COM,782688.02,Intermediate
+877ac841,Cynthia Macdonald,58,Greenmouth,EQ,782688.02,Intermediate
+877ac841,Cynthia Macdonald,58,Greenmouth,MF,782688.02,Intermediate
+97d8925d,Jennifer Rodriguez,54,Lanechester,BOND,286233.13,Intermediate
+97d8925d,Jennifer Rodriguez,54,Lanechester,EQ,286233.13,Intermediate
+97d8925d,Jennifer Rodriguez,54,Lanechester,MF,286233.13,Intermediate
+e9aed9aa,Melanie Houston,49,Juanberg,IDX,634884.45,Beginner
+e9aed9aa,Melanie Houston,49,Juanberg,EQ,634884.45,Beginner
+71bf3331,Michael White,43,Heatherchester,CUR,180293.18,Beginner
+71bf3331,Michael White,43,Heatherchester,BOND,180293.18,Beginner
+bde1abe4,Jackson Lewis,20,Brianstad,BOND,289323.13,Expert
+bde1abe4,Jackson Lewis,20,Brianstad,IDX,289323.13,Expert
+ab6cc73f,Kristina Stewart,46,Danielleville,IDX,652745.97,Expert
+ab6cc73f,Kristina Stewart,46,Danielleville,EQ,652745.97,Expert
+15952131,Jennifer Martinez,21,Robertstad,IDX,257606.0,Beginner
+66b47067,Ryan Bowman,40,West Erinport,DER,354884.86,Beginner
+66b47067,Ryan Bowman,40,West Erinport,MF,354884.86,Beginner
+00b682ff,Robert Aguilar,59,Sandrachester,CUR,232943.32,Beginner
+c6e37c6c,Maria Cooper,59,New Karenport,BOND,75917.21,Beginner
+c6e37c6c,Maria Cooper,59,New Karenport,MF,75917.21,Beginner
+c6e37c6c,Maria Cooper,59,New Karenport,IDX,75917.21,Beginner
+8bc12668,Patrick Burnett,38,Angelastad,EQ,253306.04,Beginner
+8bc12668,Patrick Burnett,38,Angelastad,IDX,253306.04,Beginner
+88e01a98,Richard Ortiz,23,East Paul,DER,825273.2,Beginner
+88e01a98,Richard Ortiz,23,East Paul,EQ,825273.2,Beginner
+83cd8b96,Martin Vasquez,25,West Angel,BOND,145068.41,Beginner
+da928a63,Mr. Jared Moreno,33,Valentineburgh,BOND,155613.92,Beginner
+6cbe0808,Tara Andrews,41,Murphyberg,EQ,660845.61,Expert
+6cbe0808,Tara Andrews,41,Murphyberg,COM,660845.61,Expert
+e4ec2bd8,Melissa Martinez,28,New Melissa,BOND,437015.48,Beginner
+e4ec2bd8,Melissa Martinez,28,New Melissa,MF,437015.48,Beginner
+e4ec2bd8,Melissa Martinez,28,New Melissa,COM,437015.48,Beginner
+bf959a8c,Rebecca Barry,57,Normanberg,COM,426387.6,Beginner
+bf959a8c,Rebecca Barry,57,Normanberg,IDX,426387.6,Beginner
+bf959a8c,Rebecca Barry,57,Normanberg,EQ,426387.6,Beginner
+6c65a408,Patrick Juarez,51,Lake Lisa,EQ,918288.42,Expert
+6c65a408,Patrick Juarez,51,Lake Lisa,BOND,918288.42,Expert
+6c65a408,Patrick Juarez,51,Lake Lisa,IDX,918288.42,Expert
+d9806fa0,Terry Smith,59,Tammyhaven,DER,493854.74,Intermediate
+d9806fa0,Terry Smith,59,Tammyhaven,COM,493854.74,Intermediate
+d9806fa0,Terry Smith,59,Tammyhaven,CUR,493854.74,Intermediate
+74d6705f,Jacqueline Ewing,50,Maryville,DER,182033.02,Intermediate
+74d6705f,Jacqueline Ewing,50,Maryville,EQ,182033.02,Intermediate
+2a242f05,Timothy Weaver,55,Cynthiaton,IDX,718555.77,Intermediate
+2a242f05,Timothy Weaver,55,Cynthiaton,DER,718555.77,Intermediate
+326acc47,Jennifer Anderson,39,South Anthony,COM,336326.95,Intermediate
+81bbb7cc,Michael Garcia,50,North Emilystad,IDX,563007.84,Beginner
+2679970f,Jamie Goodman,44,Muellerchester,CUR,633641.74,Intermediate
+2679970f,Jamie Goodman,44,Muellerchester,DER,633641.74,Intermediate
+caa8b470,William Collier,26,Berrychester,CUR,806577.68,Intermediate
+caa8b470,William Collier,26,Berrychester,BOND,806577.68,Intermediate
+df652088,Dorothy Smith,56,Perkinsbury,DER,66442.32,Intermediate
+df652088,Dorothy Smith,56,Perkinsbury,EQ,66442.32,Intermediate
+df652088,Dorothy Smith,56,Perkinsbury,CUR,66442.32,Intermediate
+c9ca1803,Christopher Smith,27,Crystalside,COM,452772.71,Intermediate
+c9ca1803,Christopher Smith,27,Crystalside,CUR,452772.71,Intermediate
+c9ca1803,Christopher Smith,27,Crystalside,EQ,452772.71,Intermediate
+ec45fde7,Jeffrey White,45,Lake Vincent,IDX,471920.0,Intermediate
+4c2d313e,Janice Mueller,33,Jennifermouth,DER,771302.92,Expert
+4c2d313e,Janice Mueller,33,Jennifermouth,MF,771302.92,Expert
+4c2d313e,Janice Mueller,33,Jennifermouth,IDX,771302.92,Expert
+9e377efe,Daniel Martin,26,Mcmillantown,DER,484988.37,Intermediate
+9e377efe,Daniel Martin,26,Mcmillantown,MF,484988.37,Intermediate
+9e377efe,Daniel Martin,26,Mcmillantown,BOND,484988.37,Intermediate
+cfa81552,Scott Bowman,45,Grahamstad,BOND,980572.55,Beginner
+29ba471b,Dr. Alexandra Alvarez,28,Port Barbara,MF,895299.37,Intermediate
+29ba471b,Dr. Alexandra Alvarez,28,Port Barbara,COM,895299.37,Intermediate
+29ba471b,Dr. Alexandra Alvarez,28,Port Barbara,CUR,895299.37,Intermediate
+961bce39,Caroline Hays,22,Pattersonbury,EQ,544404.53,Intermediate
+09252635,Anita Rodriguez,45,Hillton,CUR,117176.83,Expert
+09252635,Anita Rodriguez,45,Hillton,IDX,117176.83,Expert
+3f0013e5,John Carpenter,25,East Abigail,DER,207230.86,Beginner
+89744730,Kevin Smith,38,South Samantha,IDX,781079.15,Intermediate
+89744730,Kevin Smith,38,South Samantha,CUR,781079.15,Intermediate
+89744730,Kevin Smith,38,South Samantha,MF,781079.15,Intermediate
+5df8fcb9,Peter Williams,32,Milesbury,COM,847257.43,Intermediate
+5df8fcb9,Peter Williams,32,Milesbury,MF,847257.43,Intermediate
+d13d89db,Joan Thomas,26,Robinsonborough,CUR,71360.29,Beginner
+d13d89db,Joan Thomas,26,Robinsonborough,DER,71360.29,Beginner
+402c1d43,Jessica Green,52,Lake Anna,MF,122111.2,Expert
+402c1d43,Jessica Green,52,Lake Anna,CUR,122111.2,Expert
+563e1fd4,Melanie Mccarthy,54,West Brett,BOND,447912.62,Expert
+563e1fd4,Melanie Mccarthy,54,West Brett,IDX,447912.62,Expert
+14450a9b,Christopher Robinson,37,Sarahton,DER,333465.78,Beginner
+7b0221cb,Barry Williams,45,New Eric,MF,327681.0,Beginner
+d47e4b0a,Melissa Pham,24,Lake Lauraborough,MF,240598.0,Beginner
+d47e4b0a,Melissa Pham,24,Lake Lauraborough,COM,240598.0,Beginner
+1e7f9916,Scott Pugh,58,Lake Jim,MF,140914.61,Intermediate
+1e7f9916,Scott Pugh,58,Lake Jim,EQ,140914.61,Intermediate
+1e7f9916,Scott Pugh,58,Lake Jim,IDX,140914.61,Intermediate
+4c5711b3,George Henderson,44,Lake Barbarahaven,MF,104977.16,Expert
+a76ce92d,Courtney Atkins,50,Port Aaronbury,MF,886157.74,Expert
+a76ce92d,Courtney Atkins,50,Port Aaronbury,EQ,886157.74,Expert
+f8631011,Michael Hunt,49,Gregoryfort,DER,548800.46,Beginner
+f8631011,Michael Hunt,49,Gregoryfort,COM,548800.46,Beginner
+99b9c873,Joel Blankenship,45,East Lisa,MF,517419.4,Beginner
+99b9c873,Joel Blankenship,45,East Lisa,COM,517419.4,Beginner
+0639d7a1,Terry Evans,30,Rochabury,DER,652171.76,Expert
+6e34a9c7,Wendy Vargas,46,Lake Cassandramouth,EQ,730559.11,Expert
+6e34a9c7,Wendy Vargas,46,Lake Cassandramouth,IDX,730559.11,Expert
+f1371811,Jerry Peterson,29,Williamsbury,BOND,99701.47,Intermediate
+f1371811,Jerry Peterson,29,Williamsbury,DER,99701.47,Intermediate
+ec20e75d,Kathleen Neal,24,Erinview,CUR,184339.32,Expert
+ec20e75d,Kathleen Neal,24,Erinview,DER,184339.32,Expert
+ec20e75d,Kathleen Neal,24,Erinview,IDX,184339.32,Expert
+e245794e,Allison Abbott,52,Karenstad,COM,411609.6,Expert
+e245794e,Allison Abbott,52,Karenstad,MF,411609.6,Expert
+e245794e,Allison Abbott,52,Karenstad,IDX,411609.6,Expert
+25439411,Tina Brown,26,Lake Billy,BOND,393658.8,Beginner
+25439411,Tina Brown,26,Lake Billy,MF,393658.8,Beginner
+25439411,Tina Brown,26,Lake Billy,COM,393658.8,Beginner
+cb7e1fc0,Philip Jones,46,South Rebeccamouth,BOND,223685.39,Expert
+cb7e1fc0,Philip Jones,46,South Rebeccamouth,CUR,223685.39,Expert
+3b8ae4cd,Kelly Ryan,31,Keithview,CUR,740087.18,Beginner
+59c55a8a,Angela Beck,57,North Jose,COM,106605.78,Expert
+39b60e02,Richard Russell,25,Stephaniemouth,BOND,661095.47,Intermediate
+39b60e02,Richard Russell,25,Stephaniemouth,IDX,661095.47,Intermediate
+39b60e02,Richard Russell,25,Stephaniemouth,DER,661095.47,Intermediate
+a4eb5eef,Lisa Richards,56,Jacksonchester,CUR,558081.35,Intermediate
+ff5c90e1,Catherine Padilla,27,Lauraland,DER,672086.04,Beginner
+ff5c90e1,Catherine Padilla,27,Lauraland,IDX,672086.04,Beginner
+ff5c90e1,Catherine Padilla,27,Lauraland,CUR,672086.04,Beginner
+7cff2819,Nathaniel Stewart,42,Hunterfort,COM,119679.57,Expert
+7cff2819,Nathaniel Stewart,42,Hunterfort,CUR,119679.57,Expert
+7cff2819,Nathaniel Stewart,42,Hunterfort,BOND,119679.57,Expert
+a96dd9af,Deborah Reynolds,36,Lisamouth,IDX,989695.69,Intermediate
+a96dd9af,Deborah Reynolds,36,Lisamouth,DER,989695.69,Intermediate
+a96dd9af,Deborah Reynolds,36,Lisamouth,BOND,989695.69,Intermediate
+3321b0da,Jessica Stanley,36,Longville,IDX,327964.84,Expert
+3321b0da,Jessica Stanley,36,Longville,DER,327964.84,Expert
+3321b0da,Jessica Stanley,36,Longville,COM,327964.84,Expert
+eac5c73d,Francis Harding,53,Markview,CUR,464599.48,Beginner
+eac5c73d,Francis Harding,53,Markview,MF,464599.48,Beginner
+b145ba74,Michael Martin,43,Mcdanielburgh,BOND,536908.31,Expert
+a0933e52,David French,33,East Janet,BOND,757332.57,Intermediate
+1759e9dd,Melinda Sandoval,48,Bryanttown,IDX,322630.27,Beginner
+02717dea,Margaret Patrick,29,North Caitlinside,IDX,408758.12,Beginner
+02717dea,Margaret Patrick,29,North Caitlinside,DER,408758.12,Beginner
+915d3e54,Colleen Brown,26,West Brittany,DER,347464.9,Expert
+515c3fb7,Danielle Ali,56,Simmonsfort,EQ,640491.66,Intermediate
+6da839da,Gabriel Hanson,34,East Shawnport,CUR,403003.91,Intermediate
+6da839da,Gabriel Hanson,34,East Shawnport,BOND,403003.91,Intermediate
+69956691,Brandon Murray,37,East Davidland,IDX,554225.27,Intermediate
+69956691,Brandon Murray,37,East Davidland,EQ,554225.27,Intermediate
+69956691,Brandon Murray,37,East Davidland,BOND,554225.27,Intermediate
+c143baea,Alfred Benjamin,37,Josephtown,EQ,652365.5,Beginner
+c143baea,Alfred Benjamin,37,Josephtown,CUR,652365.5,Beginner
+c143baea,Alfred Benjamin,37,Josephtown,COM,652365.5,Beginner
+e998edb2,Tiffany Norman,38,Lisamouth,CUR,644960.74,Beginner
+e998edb2,Tiffany Norman,38,Lisamouth,EQ,644960.74,Beginner
+e998edb2,Tiffany Norman,38,Lisamouth,MF,644960.74,Beginner
+5940fce8,Thomas White,23,Reesefurt,DER,291504.71,Expert
+a279e158,James Salas,31,North Annaview,MF,893925.91,Beginner
+6782721c,Melissa Moore,46,North Brianna,CUR,526362.01,Intermediate
+397e950e,Julie Jackson,20,Lake Jonathan,DER,686641.16,Expert
+397e950e,Julie Jackson,20,Lake Jonathan,COM,686641.16,Expert
+397e950e,Julie Jackson,20,Lake Jonathan,MF,686641.16,Expert
+9e2c234a,Justin Hoover,41,Martinezhaven,MF,136148.78,Intermediate
+9e2c234a,Justin Hoover,41,Martinezhaven,COM,136148.78,Intermediate
+9e2c234a,Justin Hoover,41,Martinezhaven,BOND,136148.78,Intermediate
+ad132854,Daniel Butler,28,New Alisonfurt,CUR,220544.27,Expert
+216822ef,Patricia Fischer,20,Franklinburgh,CUR,867575.73,Intermediate
+216822ef,Patricia Fischer,20,Franklinburgh,BOND,867575.73,Intermediate
+d3cf22b8,Judy Delacruz,30,Marshallfort,IDX,161175.91,Beginner
+d3cf22b8,Judy Delacruz,30,Marshallfort,DER,161175.91,Beginner
+fc5d6d73,Christopher Vang,46,West Mackenzie,BOND,59432.8,Beginner
+9d8b1750,Michael Dixon,30,Sotofurt,EQ,755274.21,Expert
+e38fbcbb,Michele Chapman MD,26,Maddenhaven,BOND,238933.86,Expert
+4786c82e,Danielle Perez,51,Craigville,DER,766656.37,Intermediate
+4503cbf2,Charles Arnold,30,Jonesfurt,EQ,203980.9,Beginner
+4503cbf2,Charles Arnold,30,Jonesfurt,IDX,203980.9,Beginner
+52a55030,Robert Hodge,40,West Deborah,EQ,959173.06,Beginner
+52a55030,Robert Hodge,40,West Deborah,BOND,959173.06,Beginner
+50458877,Erica Lawrence,56,Hawkinsburgh,BOND,948052.05,Expert
+50458877,Erica Lawrence,56,Hawkinsburgh,COM,948052.05,Expert
+62aa2766,Sara Johnson,57,Port Joshua,IDX,421151.84,Beginner
+62aa2766,Sara Johnson,57,Port Joshua,MF,421151.84,Beginner
+7c54aaab,Allen White,38,Josephburgh,DER,215929.21,Expert
+7c54aaab,Allen White,38,Josephburgh,IDX,215929.21,Expert
+7c54aaab,Allen White,38,Josephburgh,COM,215929.21,Expert
+19c6abea,Autumn Stephenson,30,New Scott,MF,564095.29,Intermediate
+5d79b272,Priscilla Cline,44,West Katie,MF,849922.66,Intermediate
+5d79b272,Priscilla Cline,44,West Katie,COM,849922.66,Intermediate
+5d79b272,Priscilla Cline,44,West Katie,EQ,849922.66,Intermediate
+1393266b,Alyssa Logan,38,Ortizmouth,MF,62892.86,Expert
+1393266b,Alyssa Logan,38,Ortizmouth,COM,62892.86,Expert
+31a32e66,Betty Wallace,46,Harriston,CUR,52687.26,Intermediate
+31a32e66,Betty Wallace,46,Harriston,DER,52687.26,Intermediate
+1f5e78a3,Juan Tucker,32,Parrishfort,BOND,860556.98,Expert
+1f5e78a3,Juan Tucker,32,Parrishfort,EQ,860556.98,Expert
+1f5e78a3,Juan Tucker,32,Parrishfort,MF,860556.98,Expert
+a6859001,William Harris,22,West Katherinehaven,DER,534529.02,Intermediate
+a6859001,William Harris,22,West Katherinehaven,IDX,534529.02,Intermediate
+a6859001,William Harris,22,West Katherinehaven,CUR,534529.02,Intermediate
+73b39600,Barbara Blake,44,Greenshire,IDX,998577.72,Expert
+73b39600,Barbara Blake,44,Greenshire,DER,998577.72,Expert
+01da9bd2,Mike Carpenter,23,East Timothychester,BOND,323350.81,Beginner
+01da9bd2,Mike Carpenter,23,East Timothychester,DER,323350.81,Beginner
+91e63f2a,Ethan Boyer,53,North Charles,MF,343520.06,Intermediate
+91e63f2a,Ethan Boyer,53,North Charles,DER,343520.06,Intermediate
+323525af,Darryl Terry,44,West Katherinehaven,CUR,430044.48,Intermediate
+eb033d61,Jennifer Richards,51,Terrychester,CUR,100756.75,Intermediate
+e9e960e9,Anthony Waller,42,West Jodi,COM,213517.67,Expert
+e9e960e9,Anthony Waller,42,West Jodi,DER,213517.67,Expert
+e9e960e9,Anthony Waller,42,West Jodi,BOND,213517.67,Expert
+ec490902,Nathan Hamilton,32,Lake Michael,IDX,672818.73,Beginner
+ec490902,Nathan Hamilton,32,Lake Michael,CUR,672818.73,Beginner
+ec490902,Nathan Hamilton,32,Lake Michael,EQ,672818.73,Beginner
+3fe547ca,Rhonda White,39,Lake Karlmouth,IDX,175826.54,Beginner
+049d167f,Drew Barnett,49,Traceytown,IDX,228736.46,Intermediate
+049d167f,Drew Barnett,49,Traceytown,MF,228736.46,Intermediate
+e98fad80,Troy Martin,30,East Emilyville,EQ,370197.47,Beginner
+003257d8,Lisa Serrano,54,Port Erictown,BOND,390740.8,Expert
+003257d8,Lisa Serrano,54,Port Erictown,MF,390740.8,Expert
+003257d8,Lisa Serrano,54,Port Erictown,IDX,390740.8,Expert
+1f08370b,Lori Shannon,33,Lake Angela,MF,351442.67,Expert
+1f08370b,Lori Shannon,33,Lake Angela,COM,351442.67,Expert
+df05477f,Mr. Blake Grant,54,Lake Jack,DER,279153.81,Beginner
+fd853ceb,Linda Quinn,42,Port Markborough,MF,504858.99,Expert
+fd853ceb,Linda Quinn,42,Port Markborough,COM,504858.99,Expert
+9bf7f163,Bob Cochran,28,Nancychester,IDX,773174.74,Beginner
+8e174b31,Sabrina Stevenson,38,Gomezmouth,DER,953625.07,Intermediate
+eafe7aba,Scott Grant,26,Bennettmouth,CUR,363066.44,Beginner
+eafe7aba,Scott Grant,26,Bennettmouth,DER,363066.44,Beginner
+eafe7aba,Scott Grant,26,Bennettmouth,BOND,363066.44,Beginner
+c79207c2,Caleb Foster,45,Lake Rubenmouth,CUR,336483.34,Intermediate
+c5af9a59,Brandon Murphy,39,North Stevenburgh,BOND,969424.28,Expert
+628b63ef,Susan Wood,34,Jonathanburgh,COM,14624.6,Expert
+628b63ef,Susan Wood,34,Jonathanburgh,MF,14624.6,Expert
+628b63ef,Susan Wood,34,Jonathanburgh,EQ,14624.6,Expert
+d690b74f,Sara Moore,22,Nicholsonview,BOND,376006.25,Intermediate
+fceaf696,Matthew Brown,22,Port Tracy,CUR,657259.37,Expert
+d087d080,Alexis Guzman,43,Weeksberg,IDX,375953.66,Expert
+d087d080,Alexis Guzman,43,Weeksberg,BOND,375953.66,Expert
+a5f3cd68,Marc Martinez,41,Matthewbury,CUR,75389.96,Expert
+a5f3cd68,Marc Martinez,41,Matthewbury,DER,75389.96,Expert
+a5f3cd68,Marc Martinez,41,Matthewbury,EQ,75389.96,Expert
+9967b9e4,Christopher Mack,23,Lake Elizabethberg,CUR,443594.46,Intermediate
+9967b9e4,Christopher Mack,23,Lake Elizabethberg,BOND,443594.46,Intermediate
+51cf5539,Carmen Pugh,32,Gutierrezshire,IDX,175941.93,Intermediate
+b4d6d0b5,Walter Bradley,41,Jeanview,IDX,28364.05,Beginner
+b4d6d0b5,Walter Bradley,41,Jeanview,EQ,28364.05,Beginner
+b4d6d0b5,Walter Bradley,41,Jeanview,DER,28364.05,Beginner
+12e6f537,David Gill,56,Port Paul,BOND,829910.27,Expert
+12e6f537,David Gill,56,Port Paul,DER,829910.27,Expert
+12e6f537,David Gill,56,Port Paul,MF,829910.27,Expert
+210b443b,Scott Gaines,27,North Megan,COM,483839.07,Expert
+f378883a,Janet Hughes,36,East Nicholas,DER,13538.54,Intermediate
+f378883a,Janet Hughes,36,East Nicholas,CUR,13538.54,Intermediate
+f378883a,Janet Hughes,36,East Nicholas,EQ,13538.54,Intermediate
+cece88e3,Kelly Smith,42,Port Paultown,DER,400804.31,Expert
+f40d0b77,Joseph Wilkinson,56,Lake Victoria,MF,596108.62,Beginner
+f40d0b77,Joseph Wilkinson,56,Lake Victoria,COM,596108.62,Beginner
+f40d0b77,Joseph Wilkinson,56,Lake Victoria,CUR,596108.62,Beginner
+ca376612,Kimberly Murphy,22,Judyfort,IDX,647136.54,Beginner
+ba3f34ba,Sarah Murphy,37,Austinshire,CUR,362017.8,Intermediate
+9eef4d4a,Cindy Pugh,24,Blakehaven,BOND,890798.73,Beginner
+9eef4d4a,Cindy Pugh,24,Blakehaven,COM,890798.73,Beginner
+9eef4d4a,Cindy Pugh,24,Blakehaven,DER,890798.73,Beginner
+ea10eaee,Cheryl Thomas,20,Larsonshire,IDX,122331.42,Beginner
+ea10eaee,Cheryl Thomas,20,Larsonshire,MF,122331.42,Beginner
+ea10eaee,Cheryl Thomas,20,Larsonshire,BOND,122331.42,Beginner
+89d159e6,David Hanna,55,Wellsberg,EQ,236193.33,Intermediate
+b2a1edc9,Nicole Oconnor,53,Rhondahaven,CUR,520617.37,Intermediate
+b2a1edc9,Nicole Oconnor,53,Rhondahaven,COM,520617.37,Intermediate
+ab45c75d,Brittany Franklin,55,Lopezstad,BOND,552240.93,Expert
+ab45c75d,Brittany Franklin,55,Lopezstad,MF,552240.93,Expert
+ab45c75d,Brittany Franklin,55,Lopezstad,COM,552240.93,Expert
+960d0be0,Justin Reynolds,44,West Donnafort,EQ,736088.29,Beginner
+d8530aea,Anna Huang,48,Lake Jennifer,IDX,311604.06,Beginner
+d8530aea,Anna Huang,48,Lake Jennifer,BOND,311604.06,Beginner
+da7e8c01,Robert Harvey,52,West Lisa,EQ,413633.63,Intermediate
+da7e8c01,Robert Harvey,52,West Lisa,COM,413633.63,Intermediate
+da7e8c01,Robert Harvey,52,West Lisa,CUR,413633.63,Intermediate
+dcb00092,Nichole Rowe,37,Brittneyview,BOND,103794.85,Expert
+dcb00092,Nichole Rowe,37,Brittneyview,DER,103794.85,Expert
+dcb00092,Nichole Rowe,37,Brittneyview,IDX,103794.85,Expert
+57543611,Sheryl Mason,40,Josephville,DER,619460.59,Beginner
+77eb3532,Kristy Johnson,45,Birdland,EQ,936032.55,Intermediate
+77eb3532,Kristy Johnson,45,Birdland,MF,936032.55,Intermediate
+77eb3532,Kristy Johnson,45,Birdland,DER,936032.55,Intermediate
+94e2f240,Laura Morrison,50,West Johnton,COM,287980.77,Beginner
+94e2f240,Laura Morrison,50,West Johnton,BOND,287980.77,Beginner
+94e2f240,Laura Morrison,50,West Johnton,IDX,287980.77,Beginner
+c3e3f329,Todd Miller,40,North Robert,DER,465988.01,Intermediate
+0b8e34d8,Gabriela Richard,50,Matthewfort,BOND,481063.88,Intermediate
+0b8e34d8,Gabriela Richard,50,Matthewfort,CUR,481063.88,Intermediate
+0b8e34d8,Gabriela Richard,50,Matthewfort,EQ,481063.88,Intermediate
+c6dde330,Paul Anderson,20,Port Anita,CUR,444978.95,Beginner
+4b782298,Andres Buck,34,Brandonberg,IDX,883245.57,Beginner
+68b96901,Christina Stevens,51,Smithmouth,EQ,548607.41,Expert
+68b96901,Christina Stevens,51,Smithmouth,BOND,548607.41,Expert
+f34b82bb,Janet Young,38,East Dorothy,DER,343497.08,Intermediate
+f34b82bb,Janet Young,38,East Dorothy,MF,343497.08,Intermediate
+512ca519,Bryan Williams,36,Lake Christinabury,MF,259228.17,Expert
+512ca519,Bryan Williams,36,Lake Christinabury,EQ,259228.17,Expert
+512ca519,Bryan Williams,36,Lake Christinabury,DER,259228.17,Expert
+f67044f2,Ann Lopez,45,East Ericaberg,MF,920384.19,Intermediate
+9620355f,Jessica Price,55,West Grace,IDX,648947.06,Intermediate
+9620355f,Jessica Price,55,West Grace,COM,648947.06,Intermediate
+66b439f9,Kathleen Gilbert,48,Stevenchester,IDX,107769.95,Intermediate
+66b439f9,Kathleen Gilbert,48,Stevenchester,COM,107769.95,Intermediate
+66b439f9,Kathleen Gilbert,48,Stevenchester,DER,107769.95,Intermediate
+fff5e22b,Kathleen Callahan,51,Scottborough,IDX,410892.64,Intermediate
+fff5e22b,Kathleen Callahan,51,Scottborough,MF,410892.64,Intermediate
+fff5e22b,Kathleen Callahan,51,Scottborough,COM,410892.64,Intermediate
+0787bfa1,Dennis Chandler,26,Alexanderfort,BOND,695676.44,Intermediate
+0787bfa1,Dennis Chandler,26,Alexanderfort,EQ,695676.44,Intermediate
+20b8e6a4,Jesse Reyes,25,Port Brian,EQ,111334.24,Intermediate
+20b8e6a4,Jesse Reyes,25,Port Brian,IDX,111334.24,Intermediate
+5451d012,Jill Berger,50,North Samantha,MF,890861.52,Expert
+5451d012,Jill Berger,50,North Samantha,EQ,890861.52,Expert
+7d6a571d,Laura Brooks,42,Marshport,DER,942429.02,Intermediate
+5c5ac65b,Scott Campbell,57,Michelleton,EQ,164170.24,Intermediate
+5c5ac65b,Scott Campbell,57,Michelleton,DER,164170.24,Intermediate
+6b3c808f,James Gonzalez,29,Kingchester,EQ,527056.08,Intermediate
+aa22afaa,Gerald Hanson,33,West Tammy,IDX,606878.38,Expert
+92c087e7,Luke Gibson,36,Orozcoview,MF,546219.5,Beginner
+92c087e7,Luke Gibson,36,Orozcoview,BOND,546219.5,Beginner
+92c087e7,Luke Gibson,36,Orozcoview,DER,546219.5,Beginner
+003060a1,Teresa Phillips,52,Port Kennethberg,DER,581291.48,Intermediate
+003060a1,Teresa Phillips,52,Port Kennethberg,EQ,581291.48,Intermediate
+3f726816,Mariah Lewis,21,Ortizfort,CUR,801750.99,Intermediate
+3f726816,Mariah Lewis,21,Ortizfort,DER,801750.99,Intermediate
+3f726816,Mariah Lewis,21,Ortizfort,BOND,801750.99,Intermediate
+02b33984,Ricky Jones,58,Port Jesse,BOND,165574.64,Intermediate
+1602706c,Dustin Horton,35,Williamstown,IDX,920966.32,Intermediate
+1602706c,Dustin Horton,35,Williamstown,COM,920966.32,Intermediate
+1602706c,Dustin Horton,35,Williamstown,CUR,920966.32,Intermediate
+ffc466cf,Amanda Drake,44,East Kylefort,CUR,524764.4,Beginner
+ffc466cf,Amanda Drake,44,East Kylefort,IDX,524764.4,Beginner
+f555c03f,Tyler Taylor,32,Doyleview,DER,155058.19,Intermediate
+482ee4f3,Joseph Smith,49,North Dennisside,IDX,842054.76,Beginner
+e4e07507,Thomas Ho,38,East Nicoletown,IDX,861910.1,Intermediate
+e4e07507,Thomas Ho,38,East Nicoletown,CUR,861910.1,Intermediate
+e4e07507,Thomas Ho,38,East Nicoletown,COM,861910.1,Intermediate
+c2456fc8,Steven Zuniga,43,Erikabury,MF,361043.79,Beginner
+c2456fc8,Steven Zuniga,43,Erikabury,BOND,361043.79,Beginner
+c2456fc8,Steven Zuniga,43,Erikabury,IDX,361043.79,Beginner
+e274c4e8,Brandon Hudson,35,Josefurt,MF,715589.63,Beginner
+e274c4e8,Brandon Hudson,35,Josefurt,CUR,715589.63,Beginner
+e274c4e8,Brandon Hudson,35,Josefurt,IDX,715589.63,Beginner
+52122064,Gregory Conner,24,New Rodney,IDX,56517.45,Beginner
+52122064,Gregory Conner,24,New Rodney,BOND,56517.45,Beginner
+b6248bd3,Anthony Hebert,50,South Danielborough,BOND,437787.02,Beginner
+b6248bd3,Anthony Hebert,50,South Danielborough,MF,437787.02,Beginner
+b6248bd3,Anthony Hebert,50,South Danielborough,COM,437787.02,Beginner
+c73ab551,Sarah Ray,45,Johnsonview,DER,713458.83,Beginner
+c73ab551,Sarah Ray,45,Johnsonview,COM,713458.83,Beginner
+c73ab551,Sarah Ray,45,Johnsonview,MF,713458.83,Beginner
+70dbfbab,Tony Williams PhD,44,East Danielle,COM,812829.53,Beginner
+70dbfbab,Tony Williams PhD,44,East Danielle,MF,812829.53,Beginner
+70dbfbab,Tony Williams PhD,44,East Danielle,IDX,812829.53,Beginner
+eab2e4ad,James Cantu,39,South Glenmouth,IDX,553562.36,Intermediate
+eab2e4ad,James Cantu,39,South Glenmouth,BOND,553562.36,Intermediate
+79252ffc,Zachary Higgins,30,Mikeville,BOND,746056.8,Beginner
+79252ffc,Zachary Higgins,30,Mikeville,DER,746056.8,Beginner
+0c8bdfca,Jamie Smith,20,Seanshire,COM,123864.57,Beginner
+0c8bdfca,Jamie Smith,20,Seanshire,BOND,123864.57,Beginner
+d2960a73,Rebecca Clark,36,North Patrickburgh,EQ,326058.79,Expert
+d2960a73,Rebecca Clark,36,North Patrickburgh,IDX,326058.79,Expert
+47ad037d,Grace Greer,29,Sharonchester,IDX,697040.19,Intermediate
+47ad037d,Grace Greer,29,Sharonchester,EQ,697040.19,Intermediate
+47ad037d,Grace Greer,29,Sharonchester,DER,697040.19,Intermediate
+42f7d120,Earl Cross,30,East Michaelside,DER,551069.82,Intermediate
+42f7d120,Earl Cross,30,East Michaelside,EQ,551069.82,Intermediate
+a9100dc5,Christian Cain,59,East Rebecca,IDX,183683.6,Intermediate
+b14b97c7,Nicole Fernandez,36,New Heidihaven,COM,140986.62,Intermediate
+930812aa,Jonathon Brown,48,Elizabethside,CUR,67786.25,Intermediate
+915106c7,Kathleen Gordon,58,Frazierberg,MF,730751.79,Intermediate
+915106c7,Kathleen Gordon,58,Frazierberg,CUR,730751.79,Intermediate
+915106c7,Kathleen Gordon,58,Frazierberg,DER,730751.79,Intermediate
+a8396173,Daniel Palmer,44,East Peterberg,DER,715351.37,Expert
+a8396173,Daniel Palmer,44,East Peterberg,COM,715351.37,Expert
+a8396173,Daniel Palmer,44,East Peterberg,MF,715351.37,Expert
+3e446325,Melissa Ross,56,Robinsonstad,EQ,204089.37,Beginner
+3e446325,Melissa Ross,56,Robinsonstad,MF,204089.37,Beginner
+393f3412,Lisa Moore,27,New Cynthia,IDX,898751.74,Beginner
+393f3412,Lisa Moore,27,New Cynthia,MF,898751.74,Beginner
+642a3174,Leslie Green,59,Mckinneytown,BOND,18018.83,Beginner
+642a3174,Leslie Green,59,Mckinneytown,MF,18018.83,Beginner
+642a3174,Leslie Green,59,Mckinneytown,CUR,18018.83,Beginner
+e74d0528,Cindy Douglas,37,Port Joshuafurt,EQ,201492.82,Expert
+17e2c61f,Tanya Kelly,57,Gibbsberg,BOND,641372.03,Intermediate
+17e2c61f,Tanya Kelly,57,Gibbsberg,MF,641372.03,Intermediate
+17e2c61f,Tanya Kelly,57,Gibbsberg,IDX,641372.03,Intermediate
+8f4589a1,Rebecca Duncan,59,Jenkinschester,COM,423340.05,Expert
+84382a91,Mary Strickland,25,West Alexandra,BOND,350615.2,Beginner
+69e83306,Tara Horn,45,Griffinmouth,MF,294811.53,Expert
+bf0da871,Dalton Howard,57,North Dave,IDX,536781.95,Expert
+bf0da871,Dalton Howard,57,North Dave,MF,536781.95,Expert
+bf0da871,Dalton Howard,57,North Dave,BOND,536781.95,Expert
+57b3743b,Margaret Moore,45,Natalieborough,IDX,768220.23,Expert
+57b3743b,Margaret Moore,45,Natalieborough,EQ,768220.23,Expert
+97fbfe87,Adam Gregory,55,Jamesmouth,IDX,390055.11,Intermediate
+97fbfe87,Adam Gregory,55,Jamesmouth,MF,390055.11,Intermediate
+97fbfe87,Adam Gregory,55,Jamesmouth,EQ,390055.11,Intermediate
+2603d51c,Erika Harris,57,East Josephchester,CUR,273955.51,Beginner
+bf99a139,Caroline Davis,29,Jacobfurt,IDX,799155.32,Expert
+bf99a139,Caroline Davis,29,Jacobfurt,COM,799155.32,Expert
+bf99a139,Caroline Davis,29,Jacobfurt,EQ,799155.32,Expert
+4f30f0de,Lynn Morales,35,Elizabethborough,MF,252578.39,Intermediate
+4f30f0de,Lynn Morales,35,Elizabethborough,COM,252578.39,Intermediate
+3e561dd2,Lindsey Adams,47,East Sophiaside,COM,816934.35,Beginner
+df08c164,Matthew Lee,47,East Brendashire,MF,330177.16,Beginner
+df08c164,Matthew Lee,47,East Brendashire,COM,330177.16,Beginner
+585968e4,April Roberts,41,New Jacqueline,COM,425385.65,Intermediate
+585968e4,April Roberts,41,New Jacqueline,EQ,425385.65,Intermediate
+585968e4,April Roberts,41,New Jacqueline,MF,425385.65,Intermediate
+0c6602a5,Lynn Roberts,53,Port Sharon,CUR,837571.81,Expert
+0c6602a5,Lynn Roberts,53,Port Sharon,IDX,837571.81,Expert
+0c6602a5,Lynn Roberts,53,Port Sharon,BOND,837571.81,Expert
+8c375d9c,Casey Burton,43,South Shelleyport,COM,871311.73,Intermediate
+8c375d9c,Casey Burton,43,South Shelleyport,MF,871311.73,Intermediate
+8c375d9c,Casey Burton,43,South Shelleyport,CUR,871311.73,Intermediate
+5452b51f,Daniel Gonzales,26,West Thomas,DER,541991.45,Beginner
+34f155d0,Alex Hill,35,Katherineside,MF,560837.34,Beginner
+34f155d0,Alex Hill,35,Katherineside,CUR,560837.34,Beginner
+34f155d0,Alex Hill,35,Katherineside,BOND,560837.34,Beginner
+516cb1be,Lauren Duke,49,Rayville,CUR,743192.72,Intermediate
+516cb1be,Lauren Duke,49,Rayville,BOND,743192.72,Intermediate
+516cb1be,Lauren Duke,49,Rayville,EQ,743192.72,Intermediate
+87836d51,David Miller,49,East Lee,IDX,962860.56,Expert
+0b290279,Richard Mckay,32,Bellstad,BOND,804066.65,Beginner
+0b290279,Richard Mckay,32,Bellstad,MF,804066.65,Beginner
+55dfadd7,Michael Hood,35,New Joelborough,COM,387334.81,Intermediate
+55dfadd7,Michael Hood,35,New Joelborough,DER,387334.81,Intermediate
+55dfadd7,Michael Hood,35,New Joelborough,CUR,387334.81,Intermediate
+a591606a,Daniel Baird,33,North Rachelfort,CUR,410826.36,Intermediate
+a591606a,Daniel Baird,33,North Rachelfort,BOND,410826.36,Intermediate
+91992b06,Alexander Mays,35,West Kevinport,EQ,173910.13,Expert
+91992b06,Alexander Mays,35,West Kevinport,COM,173910.13,Expert
+91992b06,Alexander Mays,35,West Kevinport,DER,173910.13,Expert
+4f871d04,Doris Andersen,38,Amyport,DER,155967.63,Intermediate
+4f871d04,Doris Andersen,38,Amyport,COM,155967.63,Intermediate
+e345f724,Nancy Moore,55,Lake Karenbury,COM,66232.87,Intermediate
+e345f724,Nancy Moore,55,Lake Karenbury,DER,66232.87,Intermediate
+847940ca,Lauren Davis,32,Port Taylor,COM,93710.96,Intermediate
+f4f96cca,Jennifer Armstrong,36,North Paulville,DER,253818.13,Expert
+f4f96cca,Jennifer Armstrong,36,North Paulville,IDX,253818.13,Expert
+a4d95a2e,Melissa Rose,31,Garrisonstad,DER,426043.49,Beginner
+a4d95a2e,Melissa Rose,31,Garrisonstad,MF,426043.49,Beginner
+76ae3a92,Valerie Aguilar,33,Suemouth,MF,516222.33,Intermediate
+76ae3a92,Valerie Aguilar,33,Suemouth,COM,516222.33,Intermediate
+76ae3a92,Valerie Aguilar,33,Suemouth,CUR,516222.33,Intermediate
+7ec74ee1,Ian Castillo MD,41,Port Sandrafort,BOND,66183.13,Intermediate
+7ec74ee1,Ian Castillo MD,41,Port Sandrafort,DER,66183.13,Intermediate
+aad62f6c,Margaret Allen,52,Charlesville,EQ,776479.05,Beginner
+aad62f6c,Margaret Allen,52,Charlesville,DER,776479.05,Beginner
+ab9dc1d5,Heather Alexander,47,Jamesstad,EQ,164112.88,Expert
+ab9dc1d5,Heather Alexander,47,Jamesstad,MF,164112.88,Expert
+ab9dc1d5,Heather Alexander,47,Jamesstad,COM,164112.88,Expert
+132dab94,Joseph Oliver,47,Harrisfurt,DER,914766.52,Expert
+132dab94,Joseph Oliver,47,Harrisfurt,COM,914766.52,Expert
+70d4de59,Christopher Hinton,40,New Karen,CUR,383367.93,Expert
+70d4de59,Christopher Hinton,40,New Karen,BOND,383367.93,Expert
+d347a113,Alicia Nguyen,25,New Aaronland,DER,652793.26,Expert
+d347a113,Alicia Nguyen,25,New Aaronland,EQ,652793.26,Expert
+d347a113,Alicia Nguyen,25,New Aaronland,MF,652793.26,Expert
+d7abd7ab,Andrew Wagner,20,New Dana,DER,456434.27,Intermediate
+dbf030e5,Amy Fernandez,57,Port Kristen,DER,342772.57,Expert
+12920844,Austin Shaw,59,West Melissa,COM,541327.11,Intermediate
+12920844,Austin Shaw,59,West Melissa,EQ,541327.11,Intermediate
+12920844,Austin Shaw,59,West Melissa,CUR,541327.11,Intermediate
+0d3b4acc,Emma Williams,32,New Maria,MF,463376.41,Intermediate
+0d3b4acc,Emma Williams,32,New Maria,DER,463376.41,Intermediate
+0d3b4acc,Emma Williams,32,New Maria,EQ,463376.41,Intermediate
+61d949f2,Benjamin Castillo,51,Brianton,EQ,386599.29,Intermediate
+61d949f2,Benjamin Castillo,51,Brianton,COM,386599.29,Intermediate
+2633fd1d,Harold Barnes,36,North Mary,BOND,612704.87,Intermediate
+efe502c3,Maria Gillespie,46,Port Phillip,IDX,211581.97,Beginner
+efe502c3,Maria Gillespie,46,Port Phillip,COM,211581.97,Beginner
+a4c8a227,Michelle Clements,46,Smithmouth,COM,879061.83,Intermediate
+a4c8a227,Michelle Clements,46,Smithmouth,EQ,879061.83,Intermediate
+a4c8a227,Michelle Clements,46,Smithmouth,IDX,879061.83,Intermediate
+c2e30113,Brian Conrad,22,East Tracystad,EQ,781072.78,Intermediate
+c2e30113,Brian Conrad,22,East Tracystad,CUR,781072.78,Intermediate
+4b007559,Jamie Stone,24,Thomaston,COM,593781.78,Beginner
+71cb97e0,John Nelson,55,Cathyberg,IDX,219773.24,Expert
+7caea3d1,Todd Barron,21,Markview,COM,533473.46,Intermediate
+17593a25,Julia Jackson,47,East Rebeccaburgh,BOND,705022.21,Intermediate
+17593a25,Julia Jackson,47,East Rebeccaburgh,CUR,705022.21,Intermediate
+3f9b2bf5,Michael Jackson,32,Port Kevin,EQ,323248.88,Expert
+b922357f,Sandra Davis,37,Davidstad,DER,849819.68,Beginner
+b922357f,Sandra Davis,37,Davidstad,COM,849819.68,Beginner
+6bb7b383,James Martin,53,Pageborough,BOND,110455.34,Intermediate
+7354102c,Rachel Snyder,21,Jonesfort,MF,533078.4,Beginner
+7354102c,Rachel Snyder,21,Jonesfort,BOND,533078.4,Beginner
+7354102c,Rachel Snyder,21,Jonesfort,COM,533078.4,Beginner
+85bc698d,Jeanne Johnson,33,Simshaven,DER,789911.17,Intermediate
+85bc698d,Jeanne Johnson,33,Simshaven,EQ,789911.17,Intermediate
+72543f9c,James Hoffman,21,New Matthewbury,IDX,650569.51,Intermediate
+72543f9c,James Hoffman,21,New Matthewbury,EQ,650569.51,Intermediate
+e180aa2a,Patricia Garcia,57,Johnton,EQ,104439.27,Intermediate
+e180aa2a,Patricia Garcia,57,Johnton,COM,104439.27,Intermediate
+e180aa2a,Patricia Garcia,57,Johnton,BOND,104439.27,Intermediate
+ab5eb3d5,Lisa Jennings,28,Lake Saratown,IDX,528801.12,Expert
+ab5eb3d5,Lisa Jennings,28,Lake Saratown,DER,528801.12,Expert
+ab5eb3d5,Lisa Jennings,28,Lake Saratown,MF,528801.12,Expert
+6ab3e819,Travis Schultz,26,Port Ashleychester,IDX,201574.91,Intermediate
+67ff1152,Kristen Wright,37,Pricefurt,DER,613548.07,Expert
+67ff1152,Kristen Wright,37,Pricefurt,CUR,613548.07,Expert
+551315db,Robert Williams,23,Martinfurt,CUR,820306.35,Expert
+551315db,Robert Williams,23,Martinfurt,DER,820306.35,Expert
+551315db,Robert Williams,23,Martinfurt,COM,820306.35,Expert
+807dfe9e,Matthew Meyer,49,South Josephfurt,IDX,90341.58,Beginner
+807dfe9e,Matthew Meyer,49,South Josephfurt,BOND,90341.58,Beginner
+807dfe9e,Matthew Meyer,49,South Josephfurt,CUR,90341.58,Beginner
+1e4cfd3f,Cassandra Johnson,27,Barkermouth,EQ,546846.47,Beginner
+1e4cfd3f,Cassandra Johnson,27,Barkermouth,BOND,546846.47,Beginner
+1e4cfd3f,Cassandra Johnson,27,Barkermouth,CUR,546846.47,Beginner
+f5571553,Michael Cruz,30,Phillipton,BOND,217429.68,Intermediate
+969736ce,Amber Romero,51,West Gregoryborough,IDX,99888.45,Intermediate
+63d6ed82,Tyler Scott,53,West Richardmouth,IDX,473736.04,Expert
+8b001b99,William Vance,30,East Erikmouth,MF,67931.09,Beginner
+8b001b99,William Vance,30,East Erikmouth,EQ,67931.09,Beginner
+8b001b99,William Vance,30,East Erikmouth,DER,67931.09,Beginner
+e6368aed,Perry Ortiz,55,East Jonathanstad,COM,551959.67,Beginner
+1689abde,Rachael Hernandez,36,Lake Mark,BOND,729226.82,Intermediate
+1689abde,Rachael Hernandez,36,Lake Mark,IDX,729226.82,Intermediate
+151fc75b,Leslie Carter,55,Millerview,CUR,763890.12,Expert
+151fc75b,Leslie Carter,55,Millerview,IDX,763890.12,Expert
+151fc75b,Leslie Carter,55,Millerview,EQ,763890.12,Expert
+52a3bc80,Charles Elliott,53,Victorside,IDX,863741.98,Intermediate
+52a3bc80,Charles Elliott,53,Victorside,CUR,863741.98,Intermediate
+afdbcfe5,Christopher Owen,41,New Nancy,IDX,208295.33,Intermediate
+afdbcfe5,Christopher Owen,41,New Nancy,EQ,208295.33,Intermediate
+710ff0c3,Kristina Ashley,47,North David,MF,21627.33,Intermediate
+710ff0c3,Kristina Ashley,47,North David,CUR,21627.33,Intermediate
+fbc7da06,Carlos Caldwell,52,West Linda,DER,344162.07,Intermediate
+fbc7da06,Carlos Caldwell,52,West Linda,BOND,344162.07,Intermediate
+e592fe41,Justin Owen,58,Lake Christina,DER,130580.29,Expert
+e592fe41,Justin Owen,58,Lake Christina,MF,130580.29,Expert
+e592fe41,Justin Owen,58,Lake Christina,CUR,130580.29,Expert
+e3664c1c,Crystal Sherman DVM,26,Fisherstad,BOND,364977.34,Expert
+e3664c1c,Crystal Sherman DVM,26,Fisherstad,COM,364977.34,Expert
+58f41b8c,Jennifer Mccarthy,30,Rachelberg,DER,36881.61,Beginner
+58f41b8c,Jennifer Mccarthy,30,Rachelberg,BOND,36881.61,Beginner
+58f41b8c,Jennifer Mccarthy,30,Rachelberg,IDX,36881.61,Beginner
+b40a224a,Christopher Green,21,West Jerryborough,MF,295453.47,Beginner
+b40a224a,Christopher Green,21,West Jerryborough,IDX,295453.47,Beginner
+b40a224a,Christopher Green,21,West Jerryborough,CUR,295453.47,Beginner
+52aff316,Adam Hill,34,New Conniebury,CUR,153847.36,Expert
+52aff316,Adam Hill,34,New Conniebury,MF,153847.36,Expert
+f7c3c004,Timothy Hill,22,North Michelle,COM,502865.58,Intermediate
+0f2d4ca4,Paige Hammond,22,Perezberg,EQ,558572.07,Intermediate
+0f2d4ca4,Paige Hammond,22,Perezberg,IDX,558572.07,Intermediate
+6d74f198,Sandra Nelson,44,Wandabury,CUR,729093.66,Intermediate
+6d74f198,Sandra Nelson,44,Wandabury,COM,729093.66,Intermediate
+61dc04f6,Judith Conner,31,South Davidport,MF,150004.12,Beginner
+1f353dcf,Travis Cruz,54,Port Lisaburgh,BOND,309417.55,Beginner
+3ae10f22,David Sanchez,54,Thomashaven,IDX,191278.87,Intermediate
+4bc1b966,Nicole Dawson,55,Lake Ryanburgh,COM,147756.97,Expert
+c8aa7d75,Elizabeth Cooper,42,Hardyview,EQ,784043.55,Intermediate
+c8aa7d75,Elizabeth Cooper,42,Hardyview,BOND,784043.55,Intermediate
+a336f7d4,Rebecca Mitchell,33,Proctortown,COM,811346.02,Expert
+a336f7d4,Rebecca Mitchell,33,Proctortown,MF,811346.02,Expert
+d28e0315,Taylor Gordon,27,South Jeffreyborough,CUR,900145.5,Beginner
+d28e0315,Taylor Gordon,27,South Jeffreyborough,BOND,900145.5,Beginner
+64724a78,Kelly Johnston,26,Harrisonchester,COM,114832.15,Expert
+0bf88a80,Steven Brewer,28,Morganberg,CUR,504460.54,Intermediate
+0bf88a80,Steven Brewer,28,Morganberg,COM,504460.54,Intermediate
+fc725dd1,Jeffrey Singh,33,Larsenberg,MF,952890.53,Beginner
+fc725dd1,Jeffrey Singh,33,Larsenberg,EQ,952890.53,Beginner
+fc725dd1,Jeffrey Singh,33,Larsenberg,BOND,952890.53,Beginner
+bcc3b08d,Stephanie Greene,44,Lewistown,IDX,545549.54,Beginner
+ffafa8cd,Paul Meyer,27,Petersonport,IDX,712961.93,Expert
+ffafa8cd,Paul Meyer,27,Petersonport,COM,712961.93,Expert
+fbfd2a0e,John Castillo,41,New Debraville,DER,638062.67,Expert
+fbfd2a0e,John Castillo,41,New Debraville,MF,638062.67,Expert
+100bfa7b,Jennifer Butler,25,South Kaylashire,CUR,558296.29,Intermediate
+100bfa7b,Jennifer Butler,25,South Kaylashire,IDX,558296.29,Intermediate
+5bc48743,Olivia Allen,24,West Janeton,COM,114941.16,Expert
+6edbee93,Judy Moore,21,Lake Justin,BOND,847354.17,Intermediate
+0b34c0ba,Angela Perez,42,Brooksstad,MF,946009.95,Intermediate
+0b34c0ba,Angela Perez,42,Brooksstad,IDX,946009.95,Intermediate
+0b34c0ba,Angela Perez,42,Brooksstad,CUR,946009.95,Intermediate
+989e9493,Mrs. Jessica Rice,20,Sarahstad,MF,443073.58,Intermediate
+989e9493,Mrs. Jessica Rice,20,Sarahstad,DER,443073.58,Intermediate
+95138f4c,Alex Hooper,29,North Granthaven,CUR,799928.07,Intermediate
+95138f4c,Alex Hooper,29,North Granthaven,BOND,799928.07,Intermediate
+c37b7739,Maria Garcia,33,Huntchester,BOND,636172.31,Expert
+131bac4c,Rebecca Berry,22,South Martinmouth,BOND,553469.5,Intermediate
+131bac4c,Rebecca Berry,22,South Martinmouth,MF,553469.5,Intermediate
+fb90bc20,Bradley Stevens,52,West Martha,DER,438518.18,Beginner
+b1b2d292,Cindy Johnson,35,West Debbie,CUR,126912.28,Intermediate
+b1b2d292,Cindy Johnson,35,West Debbie,IDX,126912.28,Intermediate
+b1b2d292,Cindy Johnson,35,West Debbie,DER,126912.28,Intermediate
+bec21b4e,Karen Hoffman,46,Stacieberg,EQ,111219.19,Expert
+fd24d2fb,Heather Mclean,57,Flynnhaven,CUR,103106.49,Beginner
+44822a9e,Matthew Levy,22,North Vickitown,IDX,835369.66,Intermediate
+44822a9e,Matthew Levy,22,North Vickitown,CUR,835369.66,Intermediate
+44822a9e,Matthew Levy,22,North Vickitown,BOND,835369.66,Intermediate
+99136f70,Jared Tran,56,Port Christopherview,DER,991822.71,Expert
+68ba0a96,Michael Romero,47,Lake Destiny,IDX,641731.71,Expert
+8021b822,Andrea Cox,54,New Jennifer,EQ,185233.42,Intermediate
+8021b822,Andrea Cox,54,New Jennifer,MF,185233.42,Intermediate
+8021b822,Andrea Cox,54,New Jennifer,DER,185233.42,Intermediate
+d18c34bf,James Bell,45,New James,MF,81510.02,Intermediate
+d18c34bf,James Bell,45,New James,CUR,81510.02,Intermediate
+d18c34bf,James Bell,45,New James,EQ,81510.02,Intermediate
+10c4c723,Scott Ward,44,Maryborough,IDX,192655.23,Expert
+22e6b46a,Patrick Dillon,55,Johntown,MF,148438.91,Intermediate
+22e6b46a,Patrick Dillon,55,Johntown,EQ,148438.91,Intermediate
+22e6b46a,Patrick Dillon,55,Johntown,BOND,148438.91,Intermediate
+2fc33b67,Jason Arnold,40,New Victoria,MF,254543.84,Intermediate
+2fc33b67,Jason Arnold,40,New Victoria,IDX,254543.84,Intermediate
+2105e285,Stacey Gomez,22,Jamesville,COM,765673.97,Intermediate
+2105e285,Stacey Gomez,22,Jamesville,MF,765673.97,Intermediate
+9e20900b,Nicholas Mcguire,28,East Jeanette,BOND,600276.01,Beginner
+9e20900b,Nicholas Mcguire,28,East Jeanette,MF,600276.01,Beginner
+34d68ef0,Tiffany Obrien,36,West Jacob,BOND,849100.39,Beginner
+34d68ef0,Tiffany Obrien,36,West Jacob,CUR,849100.39,Beginner
+c9966046,John Williams,38,Lake Deanview,MF,383746.86,Beginner
+f89c5a4a,Robert Crawford,27,Port Alicia,BOND,413638.66,Intermediate
+f89c5a4a,Robert Crawford,27,Port Alicia,CUR,413638.66,Intermediate
+d3c0f7d5,Deanna Miller,41,Port Patricia,MF,161223.05,Intermediate
+56df056e,Mary Bradford,28,Brianastad,BOND,407350.37,Beginner
+56df056e,Mary Bradford,28,Brianastad,IDX,407350.37,Beginner
+56df056e,Mary Bradford,28,Brianastad,COM,407350.37,Beginner
+2fed3d32,Emily Hernandez,58,Wilsonborough,COM,460057.72,Intermediate
+60c7248a,Ashley Lopez,39,Kingville,EQ,713449.72,Expert
+9aee35da,Aaron Yoder,51,West Carlton,BOND,56125.31,Beginner
+9aee35da,Aaron Yoder,51,West Carlton,MF,56125.31,Beginner
+9aee35da,Aaron Yoder,51,West Carlton,EQ,56125.31,Beginner
+c44925fb,Paul Carlson,26,East Miguelville,CUR,165530.65,Intermediate
+e9bd02f8,Denise Owens,36,Gabrielshire,EQ,20781.76,Beginner
+e9bd02f8,Denise Owens,36,Gabrielshire,DER,20781.76,Beginner
+e9bd02f8,Denise Owens,36,Gabrielshire,MF,20781.76,Beginner
+c0d35dcf,Victoria Lewis,30,Christinabury,MF,523307.4,Intermediate
+c5447370,Edward Walsh,57,West Dakota,MF,527202.54,Intermediate
+891b7e50,Amanda Gentry,34,West Ginachester,DER,110732.08,Intermediate
+891b7e50,Amanda Gentry,34,West Ginachester,COM,110732.08,Intermediate
+891b7e50,Amanda Gentry,34,West Ginachester,BOND,110732.08,Intermediate
+fa99791e,David Jones,23,Jeffreyville,MF,45400.4,Expert
+fa99791e,David Jones,23,Jeffreyville,DER,45400.4,Expert
+83aa918c,Curtis Anderson,48,Port Markchester,MF,120583.61,Beginner
+83aa918c,Curtis Anderson,48,Port Markchester,COM,120583.61,Beginner
+83aa918c,Curtis Anderson,48,Port Markchester,BOND,120583.61,Beginner
+28b9fc44,Jacob Avery,51,Toddfurt,COM,658356.25,Expert
+9325e943,Angela Green,35,Johnsonport,EQ,858533.73,Intermediate
+9325e943,Angela Green,35,Johnsonport,IDX,858533.73,Intermediate
+9325e943,Angela Green,35,Johnsonport,DER,858533.73,Intermediate
+d98d6224,Michael Bowen,28,East Amy,MF,116477.31,Expert
+d98d6224,Michael Bowen,28,East Amy,CUR,116477.31,Expert
+d98d6224,Michael Bowen,28,East Amy,COM,116477.31,Expert
+1706b425,Desiree Burch,43,West Jamesland,DER,489823.08,Beginner
+4d0263cf,Wesley Wiley,54,North Todd,MF,524296.71,Expert
+c74bc983,Gregory Ramirez,56,Benjaminport,COM,169922.85,Beginner
+37d2a2f0,Cody Atkins,20,West Bruce,IDX,555209.73,Expert
+37d2a2f0,Cody Atkins,20,West Bruce,DER,555209.73,Expert
+37d2a2f0,Cody Atkins,20,West Bruce,EQ,555209.73,Expert
+ce641fae,Derek Nelson,52,West Rebeccaton,MF,71988.85,Beginner
+ce641fae,Derek Nelson,52,West Rebeccaton,CUR,71988.85,Beginner
+ce641fae,Derek Nelson,52,West Rebeccaton,EQ,71988.85,Beginner
+d3eb5d78,Tiffany Herrera,39,Alexanderland,COM,198965.08,Beginner
+d3eb5d78,Tiffany Herrera,39,Alexanderland,CUR,198965.08,Beginner
+b1b26942,Brooke White,32,Grahamhaven,CUR,806546.61,Intermediate
+b1b26942,Brooke White,32,Grahamhaven,EQ,806546.61,Intermediate
+b1b26942,Brooke White,32,Grahamhaven,COM,806546.61,Intermediate
+b5486fb4,Victoria Carlson,24,South Craigshire,CUR,484827.67,Expert
+b5486fb4,Victoria Carlson,24,South Craigshire,DER,484827.67,Expert
+b5486fb4,Victoria Carlson,24,South Craigshire,EQ,484827.67,Expert
+a2e61d15,Crystal Cortez,20,Castroborough,IDX,877656.73,Expert
+b2968a40,Joanna Hill,23,Murphyburgh,MF,794238.13,Beginner
+b2968a40,Joanna Hill,23,Murphyburgh,DER,794238.13,Beginner
+5102482e,Mike Ruiz,33,West Justin,DER,141123.47,Beginner
+5102482e,Mike Ruiz,33,West Justin,COM,141123.47,Beginner
+5102482e,Mike Ruiz,33,West Justin,MF,141123.47,Beginner
+75cef068,Stuart Russell,36,West Mary,DER,526985.51,Beginner
+2faadde2,Shawn Strong,49,Port Joseph,IDX,486711.98,Intermediate
+2faadde2,Shawn Strong,49,Port Joseph,BOND,486711.98,Intermediate
+923802a3,Pam Scott,22,West Alicia,IDX,897005.75,Beginner
+923802a3,Pam Scott,22,West Alicia,EQ,897005.75,Beginner
+923802a3,Pam Scott,22,West Alicia,BOND,897005.75,Beginner
+02f4a957,Julia Webb,47,Michaelfort,BOND,423674.17,Beginner
+02f4a957,Julia Webb,47,Michaelfort,IDX,423674.17,Beginner
+02f4a957,Julia Webb,47,Michaelfort,DER,423674.17,Beginner
+0a03beef,George Baker,48,West Matthewborough,DER,836137.37,Beginner
+0a03beef,George Baker,48,West Matthewborough,CUR,836137.37,Beginner
+0a03beef,George Baker,48,West Matthewborough,IDX,836137.37,Beginner
+d8006ead,Jordan Miller,29,Lake Craig,MF,871515.04,Intermediate
+d8006ead,Jordan Miller,29,Lake Craig,COM,871515.04,Intermediate
+f878e27e,Laura Floyd,53,Smithbury,CUR,90792.51,Expert
+f878e27e,Laura Floyd,53,Smithbury,IDX,90792.51,Expert
+57695fb1,Dustin Miller,38,East David,EQ,811125.24,Beginner
+57695fb1,Dustin Miller,38,East David,COM,811125.24,Beginner
+57695fb1,Dustin Miller,38,East David,MF,811125.24,Beginner
+3c6551d1,Katelyn Stark,45,Walshfort,DER,705508.0,Beginner
+3c6551d1,Katelyn Stark,45,Walshfort,IDX,705508.0,Beginner
+3657d05d,Jessica Prince,27,West Marcusmouth,COM,604743.12,Intermediate
+3657d05d,Jessica Prince,27,West Marcusmouth,EQ,604743.12,Intermediate
+73452779,Donald Evans,21,New Collinport,CUR,613413.81,Expert
+73452779,Donald Evans,21,New Collinport,EQ,613413.81,Expert
+d766e126,Bethany Patterson,57,East John,IDX,573926.97,Intermediate
+d766e126,Bethany Patterson,57,East John,EQ,573926.97,Intermediate
+d766e126,Bethany Patterson,57,East John,COM,573926.97,Intermediate
+929f6dec,John Davidson,58,Sanchezshire,COM,854693.75,Expert
+929f6dec,John Davidson,58,Sanchezshire,MF,854693.75,Expert
+929f6dec,John Davidson,58,Sanchezshire,IDX,854693.75,Expert
+91db0bc9,Justin Rodriguez,23,Port Ericaburgh,IDX,362644.36,Expert
+91db0bc9,Justin Rodriguez,23,Port Ericaburgh,COM,362644.36,Expert
+91db0bc9,Justin Rodriguez,23,Port Ericaburgh,BOND,362644.36,Expert
+fc77baf0,Laura Oliver,27,New Leslie,MF,414677.22,Beginner
+fc77baf0,Laura Oliver,27,New Leslie,DER,414677.22,Beginner
+fc77baf0,Laura Oliver,27,New Leslie,EQ,414677.22,Beginner
+f85c441a,Carrie Koch,34,Lake Katherinemouth,IDX,617532.9,Beginner
+f85c441a,Carrie Koch,34,Lake Katherinemouth,COM,617532.9,Beginner
+f85c441a,Carrie Koch,34,Lake Katherinemouth,MF,617532.9,Beginner
+7ed7fa2c,Troy Wilcox,46,East Gabrieltown,CUR,855667.41,Intermediate
+7ed7fa2c,Troy Wilcox,46,East Gabrieltown,DER,855667.41,Intermediate
+7ed7fa2c,Troy Wilcox,46,East Gabrieltown,BOND,855667.41,Intermediate
+efc3c8dd,Jennifer Kane MD,48,South Austinmouth,BOND,487006.72,Expert
+efc3c8dd,Jennifer Kane MD,48,South Austinmouth,MF,487006.72,Expert
+efc3c8dd,Jennifer Kane MD,48,South Austinmouth,IDX,487006.72,Expert
+89d4e1fa,Melissa Thompson,26,Lake Russell,BOND,746580.0,Beginner
+89d4e1fa,Melissa Thompson,26,Lake Russell,DER,746580.0,Beginner
+89d4e1fa,Melissa Thompson,26,Lake Russell,CUR,746580.0,Beginner
+6da6fb09,Manuel Green,54,New David,DER,383633.05,Intermediate
+6da6fb09,Manuel Green,54,New David,EQ,383633.05,Intermediate
+db13145f,Elijah Conner,44,North Catherinemouth,DER,178374.27,Expert
+db13145f,Elijah Conner,44,North Catherinemouth,MF,178374.27,Expert
+db13145f,Elijah Conner,44,North Catherinemouth,CUR,178374.27,Expert
+d303fbc4,Jeffrey White,43,Vangtown,DER,216060.04,Intermediate
+9fc9afb1,Brittany Heath,39,West Janetmouth,BOND,199290.57,Expert
+9fc9afb1,Brittany Heath,39,West Janetmouth,CUR,199290.57,Expert
+7e8b8c5f,Mark Lopez,45,New Nicholasborough,BOND,315221.68,Beginner
+bf580ad9,Michael King,37,Carsonborough,BOND,23917.22,Beginner
+3d8a44e6,Susan Roberts,44,Smithfurt,COM,904295.16,Intermediate
+3d8a44e6,Susan Roberts,44,Smithfurt,DER,904295.16,Intermediate
+3d8a44e6,Susan Roberts,44,Smithfurt,EQ,904295.16,Intermediate
+c77c4f2e,Carla Maxwell DDS,30,North Aliciaberg,BOND,330906.0,Intermediate
+c77c4f2e,Carla Maxwell DDS,30,North Aliciaberg,MF,330906.0,Intermediate
+5a91ec94,Natalie Fisher,47,Nicholasstad,DER,525528.69,Intermediate
+5a91ec94,Natalie Fisher,47,Nicholasstad,MF,525528.69,Intermediate
+5a91ec94,Natalie Fisher,47,Nicholasstad,CUR,525528.69,Intermediate
+88f599ce,Thomas Butler,40,East Belindaland,IDX,30454.68,Beginner
+88f599ce,Thomas Butler,40,East Belindaland,EQ,30454.68,Beginner
+88f599ce,Thomas Butler,40,East Belindaland,DER,30454.68,Beginner
+aa399715,Jennifer Young,39,South Harold,BOND,607832.32,Beginner
+aa399715,Jennifer Young,39,South Harold,CUR,607832.32,Beginner
+aa399715,Jennifer Young,39,South Harold,MF,607832.32,Beginner
+d16517d3,John Mcguire,54,Turnerton,EQ,147035.02,Intermediate
+4d332544,Beth Oliver,47,Lisafurt,COM,497929.66,Beginner
+1b12c8d0,Toni Swanson,20,Lake Jack,IDX,728731.29,Expert
+1b12c8d0,Toni Swanson,20,Lake Jack,CUR,728731.29,Expert
+1b12c8d0,Toni Swanson,20,Lake Jack,MF,728731.29,Expert
+b3263b6f,Sharon Chavez,28,Annton,EQ,524954.97,Intermediate
+b3263b6f,Sharon Chavez,28,Annton,DER,524954.97,Intermediate
+ac92c7ec,Brian Pierce,36,North Stefanieburgh,EQ,372004.14,Intermediate
+ac92c7ec,Brian Pierce,36,North Stefanieburgh,BOND,372004.14,Intermediate
+337c1d59,Justin Lee,22,Boydmouth,DER,552040.57,Intermediate
+337c1d59,Justin Lee,22,Boydmouth,BOND,552040.57,Intermediate
+647fc309,Joseph Walters,58,Blankenshipview,CUR,439958.96,Expert
+647fc309,Joseph Walters,58,Blankenshipview,BOND,439958.96,Expert
+647fc309,Joseph Walters,58,Blankenshipview,IDX,439958.96,Expert
+5597b532,Tiffany Cruz,37,Port Benjaminport,IDX,79348.2,Expert
+b6562fc3,Heather Willis,34,South Courtney,IDX,159953.29,Expert
+b6562fc3,Heather Willis,34,South Courtney,MF,159953.29,Expert
+2235b35b,William Smith,31,Port Stephanie,EQ,84195.49,Beginner
+f006dc05,Amanda Anderson,40,East Kimberlyville,EQ,85698.48,Beginner
+3b0be8e5,Caitlyn Barnes,53,Thomasside,BOND,603448.51,Beginner
+3b0be8e5,Caitlyn Barnes,53,Thomasside,CUR,603448.51,Beginner
+289d47dd,Kim Smith,34,Michaeltown,MF,931014.88,Beginner
+289d47dd,Kim Smith,34,Michaeltown,IDX,931014.88,Beginner
+f7d91f94,Erika King,56,Christianhaven,COM,475071.4,Expert
+f7d91f94,Erika King,56,Christianhaven,IDX,475071.4,Expert
+f7d91f94,Erika King,56,Christianhaven,BOND,475071.4,Expert
+78429e43,Darius Castillo,24,Riverafurt,MF,784692.13,Beginner
+e3d06999,Yvonne Lara,41,Lake Sean,COM,693139.04,Expert
+e3d06999,Yvonne Lara,41,Lake Sean,BOND,693139.04,Expert
+e3d06999,Yvonne Lara,41,Lake Sean,IDX,693139.04,Expert
+a4d89e18,Stacy Jordan,55,East Amber,DER,134761.93,Intermediate
+9954ba4a,Sean Carpenter,24,Lloydport,IDX,563767.66,Expert
+9954ba4a,Sean Carpenter,24,Lloydport,CUR,563767.66,Expert
+9954ba4a,Sean Carpenter,24,Lloydport,MF,563767.66,Expert
+f6d8f75d,Jason Love,51,Karenfurt,BOND,762358.89,Intermediate
+f6d8f75d,Jason Love,51,Karenfurt,EQ,762358.89,Intermediate
+5b4346a9,Sabrina Shaw,34,East Dana,COM,839917.1,Beginner
+5b4346a9,Sabrina Shaw,34,East Dana,MF,839917.1,Beginner
+5b4346a9,Sabrina Shaw,34,East Dana,BOND,839917.1,Beginner
+6a03fd34,Leslie Callahan,49,North Kelly,EQ,259608.51,Intermediate
+6a03fd34,Leslie Callahan,49,North Kelly,COM,259608.51,Intermediate
+6a03fd34,Leslie Callahan,49,North Kelly,IDX,259608.51,Intermediate
+77e70a4f,Rose Alexander,32,Blackburnfort,IDX,208130.86,Intermediate
+77e70a4f,Rose Alexander,32,Blackburnfort,CUR,208130.86,Intermediate
+77e70a4f,Rose Alexander,32,Blackburnfort,EQ,208130.86,Intermediate
+b22a9818,Bobby Powell,48,East Erinfort,DER,595616.11,Beginner
+b22a9818,Bobby Powell,48,East Erinfort,CUR,595616.11,Beginner
+b22a9818,Bobby Powell,48,East Erinfort,EQ,595616.11,Beginner
+440cb00a,Christopher Smith,48,Lake Markfort,COM,928075.96,Expert
+861d787f,Julie Thomas,26,Port Julie,MF,791019.29,Expert
+b73f9710,Mark Hansen,35,Scottbury,CUR,997438.29,Expert
+b73f9710,Mark Hansen,35,Scottbury,BOND,997438.29,Expert
+b73f9710,Mark Hansen,35,Scottbury,COM,997438.29,Expert
+81121108,Dylan Williams,36,Kennedymouth,BOND,422737.25,Beginner
+81121108,Dylan Williams,36,Kennedymouth,EQ,422737.25,Beginner
+81121108,Dylan Williams,36,Kennedymouth,IDX,422737.25,Beginner
+6d019273,Patricia Barnes,51,Thomasshire,COM,331898.22,Intermediate
+b39cfde1,Jo Johnston,46,Bruceside,COM,326915.55,Expert
+b39cfde1,Jo Johnston,46,Bruceside,MF,326915.55,Expert
+7a32d0bd,Glen Bernard,45,North Deborahstad,DER,380540.9,Beginner
+71e3cb23,Frank Dominguez,24,Johnchester,IDX,695202.58,Beginner
+71e3cb23,Frank Dominguez,24,Johnchester,COM,695202.58,Beginner
+71e3cb23,Frank Dominguez,24,Johnchester,BOND,695202.58,Beginner
+82514972,Gwendolyn Montoya,33,New Ashleymouth,BOND,141409.13,Intermediate
+82514972,Gwendolyn Montoya,33,New Ashleymouth,DER,141409.13,Intermediate
+82514972,Gwendolyn Montoya,33,New Ashleymouth,IDX,141409.13,Intermediate
+410ff11c,Jeffery Sutton,41,Wendybury,COM,411017.62,Beginner
+11fb3e60,Alexandra Ortiz,55,South Jason,CUR,950440.83,Beginner
+7c6dce48,David Bridges,57,Garciastad,DER,188092.05,Beginner
+82ce166d,Terry Mclean,51,South Priscilla,EQ,134436.66,Expert
+82ce166d,Terry Mclean,51,South Priscilla,DER,134436.66,Expert
+82ce166d,Terry Mclean,51,South Priscilla,CUR,134436.66,Expert
+9690c1a6,Allison Walsh,24,South Matthewfurt,CUR,621348.14,Expert
+581b6f2e,Dr. Kyle Hill,51,Burgessport,CUR,784220.51,Intermediate
+658d92c1,Michelle Dodson,34,Ryanburgh,IDX,561133.48,Expert
+39b89ff4,James Rodriguez,37,New Steveshire,BOND,921046.39,Expert
+39b89ff4,James Rodriguez,37,New Steveshire,EQ,921046.39,Expert
+39b89ff4,James Rodriguez,37,New Steveshire,IDX,921046.39,Expert
+1c767c2c,Scott Williams,41,Matthewhaven,CUR,754004.08,Beginner
+1c767c2c,Scott Williams,41,Matthewhaven,COM,754004.08,Beginner
+1c767c2c,Scott Williams,41,Matthewhaven,BOND,754004.08,Beginner
+ebcdded0,Jennifer Miller,55,North Katherineshire,COM,598443.28,Intermediate
+1ff24ecc,Dr. Thomas Perez,54,Bradleyside,COM,594412.03,Intermediate
+1ff24ecc,Dr. Thomas Perez,54,Bradleyside,MF,594412.03,Intermediate
+81eb94ee,Donna Lambert,50,North Juan,COM,259844.21,Expert
+81eb94ee,Donna Lambert,50,North Juan,BOND,259844.21,Expert
+81eb94ee,Donna Lambert,50,North Juan,CUR,259844.21,Expert
+dcf812e1,Katie Johnson,58,East Yvettefurt,EQ,214930.2,Expert
+c5bdd31b,Caitlin Bennett,30,North Sheila,COM,62270.38,Intermediate
+c1b044b9,Jenny Taylor,45,West Seanville,MF,784313.18,Expert
+c1b044b9,Jenny Taylor,45,West Seanville,IDX,784313.18,Expert
+c1b044b9,Jenny Taylor,45,West Seanville,COM,784313.18,Expert
+2546571d,Hannah Hensley,22,South Philip,DER,773216.76,Intermediate
+2546571d,Hannah Hensley,22,South Philip,IDX,773216.76,Intermediate
+2546571d,Hannah Hensley,22,South Philip,COM,773216.76,Intermediate
+7432270e,Nathan Briggs,45,New Adrianstad,IDX,278762.15,Expert
+7e047c6e,Carrie Thomas,24,Garrettland,BOND,299030.09,Intermediate
+7e047c6e,Carrie Thomas,24,Garrettland,IDX,299030.09,Intermediate
+8b25d359,Jacqueline Kim,43,East Seanmouth,COM,433279.63,Beginner
+8b25d359,Jacqueline Kim,43,East Seanmouth,DER,433279.63,Beginner
+0890738e,David Munoz,57,East Annville,CUR,348137.42,Expert
+0890738e,David Munoz,57,East Annville,EQ,348137.42,Expert
+fbfb82a7,Zachary Willis,26,Port Paulbury,COM,984658.46,Expert
+8ea563ed,Steven Durham,29,Andersonmouth,CUR,453595.87,Intermediate
+8ea563ed,Steven Durham,29,Andersonmouth,IDX,453595.87,Intermediate
+d80e0a1a,Jennifer Howard,47,New Connie,EQ,299190.02,Intermediate
+060a4a06,Christopher Allison PhD,33,West Ryan,EQ,95169.35,Beginner
+060a4a06,Christopher Allison PhD,33,West Ryan,DER,95169.35,Beginner
+060a4a06,Christopher Allison PhD,33,West Ryan,BOND,95169.35,Beginner
+92e8815a,Ronald Ortega,54,Farmerberg,BOND,235301.24,Intermediate
+a52aea05,Stephanie Flores,45,New Connieburgh,EQ,772124.43,Expert
+7150d7ab,Donna Ferguson,47,Stokesfort,CUR,593590.11,Beginner
+5355c290,Mr. Charles Mcmahon,38,Lake Jessica,BOND,789378.83,Beginner
+5355c290,Mr. Charles Mcmahon,38,Lake Jessica,CUR,789378.83,Beginner
+c6a56718,Tracy Woods,47,Kellyport,CUR,557594.39,Expert
+c6a56718,Tracy Woods,47,Kellyport,DER,557594.39,Expert
+c6a56718,Tracy Woods,47,Kellyport,IDX,557594.39,Expert
+b9fe6570,Kimberly Johnson,26,East Ryan,MF,789000.66,Beginner
+b9fe6570,Kimberly Johnson,26,East Ryan,COM,789000.66,Beginner
+b9fe6570,Kimberly Johnson,26,East Ryan,IDX,789000.66,Beginner
+f49820fd,Nicole Fisher,28,Fowlerville,IDX,212604.52,Intermediate
+f49820fd,Nicole Fisher,28,Fowlerville,BOND,212604.52,Intermediate
+f49820fd,Nicole Fisher,28,Fowlerville,EQ,212604.52,Intermediate
+0c71d2d2,Renee Williams,28,Burnsfort,IDX,198364.03,Expert
+0c71d2d2,Renee Williams,28,Burnsfort,DER,198364.03,Expert
+0c71d2d2,Renee Williams,28,Burnsfort,MF,198364.03,Expert
+95e8b53d,Nathan Cook,38,South Ambermouth,MF,389009.56,Intermediate
+95e8b53d,Nathan Cook,38,South Ambermouth,DER,389009.56,Intermediate
+95e8b53d,Nathan Cook,38,South Ambermouth,BOND,389009.56,Intermediate
+fb279c78,Samantha White,46,Brettstad,IDX,259752.36,Expert
+fb279c78,Samantha White,46,Brettstad,DER,259752.36,Expert
+29ac7177,Gary Kelly,46,East Darrellhaven,BOND,235109.61,Expert
+90ba7e43,Gabriela Vazquez,41,Shaneview,CUR,682702.87,Beginner
+90ba7e43,Gabriela Vazquez,41,Shaneview,BOND,682702.87,Beginner
+90ba7e43,Gabriela Vazquez,41,Shaneview,DER,682702.87,Beginner
+eb95655c,Eric Wagner,38,East Melinda,DER,69838.56,Intermediate
+eb95655c,Eric Wagner,38,East Melinda,BOND,69838.56,Intermediate
+ff632dc8,Deborah Watson MD,35,South Christopher,EQ,932443.83,Intermediate
+61003973,Brittany Jones,32,East Scottfort,CUR,549277.17,Intermediate
+61003973,Brittany Jones,32,East Scottfort,MF,549277.17,Intermediate
+61003973,Brittany Jones,32,East Scottfort,EQ,549277.17,Intermediate
+34764472,Abigail Mckinney,50,New Robert,DER,579672.07,Expert
+b4344a7f,Patricia Phillips,30,Bradleyside,CUR,12048.24,Expert
+875f3837,Cynthia Chase,40,South Deborahfort,MF,325190.26,Expert
+875f3837,Cynthia Chase,40,South Deborahfort,BOND,325190.26,Expert
+875f3837,Cynthia Chase,40,South Deborahfort,DER,325190.26,Expert
+14e8b9ca,Amy Sexton,37,North Johnbury,BOND,481089.45,Beginner
+14e8b9ca,Amy Sexton,37,North Johnbury,MF,481089.45,Beginner
+14e8b9ca,Amy Sexton,37,North Johnbury,EQ,481089.45,Beginner
+bdcf903e,Angela Wilkinson,24,East Anafurt,EQ,343934.67,Expert
+bdcf903e,Angela Wilkinson,24,East Anafurt,CUR,343934.67,Expert
+bdcf903e,Angela Wilkinson,24,East Anafurt,BOND,343934.67,Expert
+a828d460,Jason Snyder,41,East Robert,IDX,889193.9,Intermediate
+a828d460,Jason Snyder,41,East Robert,EQ,889193.9,Intermediate
+6d28f9a8,Timothy Patrick,36,Nicolefurt,MF,538303.14,Beginner
+6d28f9a8,Timothy Patrick,36,Nicolefurt,CUR,538303.14,Beginner
+6d28f9a8,Timothy Patrick,36,Nicolefurt,DER,538303.14,Beginner
+8a33b1bc,Carrie Cox,37,Lake Laura,CUR,587703.16,Beginner
+8053418e,Patricia Jenkins,27,Carpenterberg,BOND,233027.88,Beginner
+8053418e,Patricia Jenkins,27,Carpenterberg,MF,233027.88,Beginner
+da8f04e6,Kim Kim,38,New Sharonberg,BOND,406602.52,Intermediate
+59e5c317,Sierra Hensley,58,East Robertberg,DER,155755.19,Expert
+1905e42a,Casey Brown,26,Simsville,IDX,427382.86,Expert
+5b1f2688,Michael Schwartz,55,Williamsburgh,CUR,885290.42,Intermediate
+5b1f2688,Michael Schwartz,55,Williamsburgh,EQ,885290.42,Intermediate
+5b1f2688,Michael Schwartz,55,Williamsburgh,IDX,885290.42,Intermediate
+da9ae240,Kathleen Diaz,31,North Thomasfurt,IDX,387479.46,Beginner
+da9ae240,Kathleen Diaz,31,North Thomasfurt,DER,387479.46,Beginner
+7c97b501,Cheryl Acosta,49,Lake Jennifer,EQ,549612.22,Intermediate
+7c97b501,Cheryl Acosta,49,Lake Jennifer,IDX,549612.22,Intermediate
+7c97b501,Cheryl Acosta,49,Lake Jennifer,DER,549612.22,Intermediate
+ac27fd82,Regina Gonzalez,32,Walkerborough,EQ,250554.45,Intermediate
+a1a1be17,Nicholas Moreno,47,Andersonhaven,BOND,630317.29,Intermediate
+a1a1be17,Nicholas Moreno,47,Andersonhaven,IDX,630317.29,Intermediate
+a1a1be17,Nicholas Moreno,47,Andersonhaven,EQ,630317.29,Intermediate
+f218b2fe,Marcus Robbins,26,Hamptonfort,COM,990735.63,Intermediate
+2db0d7b2,Curtis Williamson,20,New Phillipchester,CUR,388228.96,Intermediate
+2db0d7b2,Curtis Williamson,20,New Phillipchester,DER,388228.96,Intermediate
+2db0d7b2,Curtis Williamson,20,New Phillipchester,BOND,388228.96,Intermediate
+e2826bf9,Angela Simpson,20,Tanyaville,MF,361904.53,Expert
+e2826bf9,Angela Simpson,20,Tanyaville,COM,361904.53,Expert
+e2826bf9,Angela Simpson,20,Tanyaville,DER,361904.53,Expert
+79d1f2b8,Mrs. Courtney Ramirez,31,North Lindachester,COM,414176.31,Intermediate
+79d1f2b8,Mrs. Courtney Ramirez,31,North Lindachester,BOND,414176.31,Intermediate
+b64d36da,Laura Bowman,33,Weaverview,DER,298917.26,Intermediate
+b64d36da,Laura Bowman,33,Weaverview,CUR,298917.26,Intermediate
+b64d36da,Laura Bowman,33,Weaverview,IDX,298917.26,Intermediate
+9ce39bb4,Carol Pitts,49,Adamfurt,BOND,174749.78,Intermediate
+0593be6c,Nicholas Thomas,48,Stacyside,MF,995250.76,Expert
+31146e06,Melissa Jones,34,Lake Mia,MF,622430.74,Expert
+ce46fdc8,Angela Williams,25,Grahamchester,CUR,932201.83,Intermediate
+ce46fdc8,Angela Williams,25,Grahamchester,BOND,932201.83,Intermediate
+83940136,Jerry Taylor,36,New Jonathan,MF,304303.86,Beginner
+83940136,Jerry Taylor,36,New Jonathan,DER,304303.86,Beginner
+38c623d9,Timothy Alvarez,21,New Kevin,DER,260718.09,Expert
+38c623d9,Timothy Alvarez,21,New Kevin,IDX,260718.09,Expert
+3b601658,Jessica Beasley,33,Paulmouth,CUR,841555.37,Beginner
+3b601658,Jessica Beasley,33,Paulmouth,DER,841555.37,Beginner
+bed76a9d,Brad Horne,52,Lake Matthewview,MF,365114.76,Expert
+bed76a9d,Brad Horne,52,Lake Matthewview,BOND,365114.76,Expert
+bed76a9d,Brad Horne,52,Lake Matthewview,DER,365114.76,Expert
+2b83f8d7,Philip Good,26,North Lisa,CUR,785119.21,Beginner
+c7d89dc0,Jordan Bradley,36,Thomasfort,EQ,315048.33,Beginner
+be18fb6e,Charles Porter,51,West Luischester,BOND,859668.94,Intermediate
+be18fb6e,Charles Porter,51,West Luischester,CUR,859668.94,Intermediate
+be18fb6e,Charles Porter,51,West Luischester,DER,859668.94,Intermediate
+47946a86,Alexa Cole,55,South Nancy,COM,947246.86,Intermediate
+47946a86,Alexa Cole,55,South Nancy,IDX,947246.86,Intermediate
+47946a86,Alexa Cole,55,South Nancy,DER,947246.86,Intermediate
+e50b6ab3,Jennifer Collier,41,Michaeltown,CUR,864709.26,Beginner
+e50b6ab3,Jennifer Collier,41,Michaeltown,BOND,864709.26,Beginner
+098e3ed7,Thomas Nicholson,54,Colemanberg,BOND,576690.49,Beginner
+f467d79b,Robert Petersen,30,North Frankshire,COM,285204.85,Intermediate
+f467d79b,Robert Petersen,30,North Frankshire,MF,285204.85,Intermediate
+f467d79b,Robert Petersen,30,North Frankshire,DER,285204.85,Intermediate
+b6c725db,Kathleen Simmons,45,Johnsonborough,IDX,228778.58,Expert
+b6c725db,Kathleen Simmons,45,Johnsonborough,COM,228778.58,Expert
+1e0a395d,Mr. Joel Sullivan,54,New Benjaminland,MF,980588.88,Beginner
+1e0a395d,Mr. Joel Sullivan,54,New Benjaminland,BOND,980588.88,Beginner
+1e0a395d,Mr. Joel Sullivan,54,New Benjaminland,COM,980588.88,Beginner
+e0a7bfa1,Terry Mcclure,57,Olsonhaven,BOND,495571.54,Expert
+e0a7bfa1,Terry Mcclure,57,Olsonhaven,DER,495571.54,Expert
+c1556113,Felicia Kelly,35,Washingtonville,MF,730002.45,Beginner
+c1556113,Felicia Kelly,35,Washingtonville,CUR,730002.45,Beginner
+c1556113,Felicia Kelly,35,Washingtonville,DER,730002.45,Beginner
+c2636ef7,Robert Garcia,57,Mannland,IDX,562463.01,Beginner
+c2636ef7,Robert Garcia,57,Mannland,BOND,562463.01,Beginner
+15990c20,Patricia Williams,58,South Rachaelbury,CUR,462199.17,Intermediate
+15990c20,Patricia Williams,58,South Rachaelbury,IDX,462199.17,Intermediate
+d55a1b36,Kenneth Jones,53,Lake Roberthaven,IDX,913674.46,Intermediate
+6e42ec85,Karen Vance,55,Lake Kristinfurt,BOND,263041.31,Intermediate
+6e42ec85,Karen Vance,55,Lake Kristinfurt,COM,263041.31,Intermediate
+50a1856b,Lindsay Green,31,Lake Susanstad,DER,597866.91,Expert
+50a1856b,Lindsay Green,31,Lake Susanstad,EQ,597866.91,Expert
+5dc88d74,John Hood,50,South Christopher,BOND,852168.07,Beginner
+8a7c0fc6,Jennifer Barnes,53,South James,BOND,593297.33,Beginner
+8a7c0fc6,Jennifer Barnes,53,South James,MF,593297.33,Beginner
+8a7c0fc6,Jennifer Barnes,53,South James,COM,593297.33,Beginner
+ef32d7d2,Eric Jackson,22,Lake Danielle,COM,45640.99,Intermediate
+e2a94164,Mary Keith,39,Robertchester,DER,393269.21,Beginner
+e2a94164,Mary Keith,39,Robertchester,CUR,393269.21,Beginner
+d22213b2,Jenna Price,53,Perrymouth,COM,290382.75,Intermediate
+d22213b2,Jenna Price,53,Perrymouth,CUR,290382.75,Intermediate
+d22213b2,Jenna Price,53,Perrymouth,BOND,290382.75,Intermediate
+a7b13726,Derrick James,28,South Stacy,CUR,634303.59,Expert
+1e29f258,Jennifer Palmer,39,New Baileyfurt,IDX,813742.06,Expert
+bbec282a,Stephanie Cole,48,New Davidmouth,CUR,316894.59,Intermediate
+bbec282a,Stephanie Cole,48,New Davidmouth,MF,316894.59,Intermediate
+471e2c80,Andrew Smith,31,Davisside,MF,562972.83,Beginner
+471e2c80,Andrew Smith,31,Davisside,EQ,562972.83,Beginner
+dc3e6f40,Ralph Flores,43,Joshuabury,DER,60656.22,Expert
+78ff009a,Zachary Gibson,37,Shermanborough,COM,710754.95,Beginner
+d2b23243,Christopher Brooks,53,Batestown,BOND,808376.86,Intermediate
+d2b23243,Christopher Brooks,53,Batestown,MF,808376.86,Intermediate
+d2b23243,Christopher Brooks,53,Batestown,EQ,808376.86,Intermediate
+297b96c4,Lori Ryan,23,Port Jessicamouth,EQ,494440.85,Beginner
+297b96c4,Lori Ryan,23,Port Jessicamouth,IDX,494440.85,Beginner
+297b96c4,Lori Ryan,23,Port Jessicamouth,MF,494440.85,Beginner
+1e577450,Olivia Lewis,28,Hinesshire,IDX,727864.38,Beginner
+120373fb,Kathy Hoffman,25,Deanville,EQ,515920.82,Beginner
+120373fb,Kathy Hoffman,25,Deanville,BOND,515920.82,Beginner
+5f6c4d47,Patricia Stewart,25,Ryanshire,BOND,899503.26,Intermediate
+91b05add,Christopher Robinson,36,Lucasmouth,CUR,741622.78,Expert
+91b05add,Christopher Robinson,36,Lucasmouth,IDX,741622.78,Expert
+6b616ef2,Alicia Lee,46,Dennismouth,BOND,707812.36,Beginner
+6b616ef2,Alicia Lee,46,Dennismouth,IDX,707812.36,Beginner
+6b616ef2,Alicia Lee,46,Dennismouth,COM,707812.36,Beginner
+36bc7941,Terry Young,23,Martinezmouth,MF,991810.78,Beginner
+36bc7941,Terry Young,23,Martinezmouth,COM,991810.78,Beginner
+6e805592,Christopher Lopez,44,Port Lindaport,MF,980612.7,Expert
+6e805592,Christopher Lopez,44,Port Lindaport,IDX,980612.7,Expert
+6e805592,Christopher Lopez,44,Port Lindaport,CUR,980612.7,Expert
+6781db28,Cameron Rojas,49,Beckerfurt,DER,945515.99,Beginner
+6781db28,Cameron Rojas,49,Beckerfurt,MF,945515.99,Beginner
+640ea69e,Isaac Hester,46,West Mark,IDX,414872.23,Expert
+640ea69e,Isaac Hester,46,West Mark,MF,414872.23,Expert
+640ea69e,Isaac Hester,46,West Mark,CUR,414872.23,Expert
+89bc2fa8,Mark Gonzalez,25,Gordonton,BOND,626238.63,Intermediate
+89bc2fa8,Mark Gonzalez,25,Gordonton,DER,626238.63,Intermediate
+c073880a,Michelle Brandt,41,Lake Sarah,IDX,350880.25,Expert
+c073880a,Michelle Brandt,41,Lake Sarah,BOND,350880.25,Expert
+c073880a,Michelle Brandt,41,Lake Sarah,COM,350880.25,Expert
+b9349197,Katelyn Harris,50,East Richardstad,COM,922784.42,Expert
+b9349197,Katelyn Harris,50,East Richardstad,CUR,922784.42,Expert
+e8b33f87,Christopher Taylor,43,South Tracy,CUR,408818.6,Expert
+709557ee,Alison Hernandez,50,Port Christopher,IDX,235653.89,Beginner
+709557ee,Alison Hernandez,50,Port Christopher,EQ,235653.89,Beginner
+508df4c4,Robert Green,53,Ortizhaven,COM,794016.86,Expert
+508df4c4,Robert Green,53,Ortizhaven,EQ,794016.86,Expert
+f764ada0,Allison Williams,58,Ortizchester,BOND,560246.22,Expert
+cb174961,Dana Rogers,39,Danielstad,DER,987033.13,Intermediate
+cb174961,Dana Rogers,39,Danielstad,EQ,987033.13,Intermediate
+cb174961,Dana Rogers,39,Danielstad,IDX,987033.13,Intermediate
+1c8b6330,Michael Whitaker,52,Brownshire,DER,565522.34,Intermediate
+1c8b6330,Michael Whitaker,52,Brownshire,IDX,565522.34,Intermediate
+09874dd5,Hector Guzman,55,Stephanieville,DER,95874.94,Intermediate
+09874dd5,Hector Guzman,55,Stephanieville,BOND,95874.94,Intermediate
+2bcc9bec,Ellen Duran,25,Wesleymouth,MF,266991.38,Intermediate
+2bcc9bec,Ellen Duran,25,Wesleymouth,IDX,266991.38,Intermediate
+8c73fc49,Alison Garcia,34,Jacksonstad,MF,807430.89,Expert
+e56d5b28,Karen Banks,29,South Kelly,CUR,951412.02,Intermediate
+e56d5b28,Karen Banks,29,South Kelly,MF,951412.02,Intermediate
+faa46b26,Sarah Johnson,25,Gordonburgh,EQ,21945.8,Expert
+742e05bf,Allison Solomon,34,Thomasborough,CUR,694403.46,Expert
+742e05bf,Allison Solomon,34,Thomasborough,BOND,694403.46,Expert
+95f2f294,Shannon Lee,48,East Adam,CUR,481320.69,Beginner
+95f2f294,Shannon Lee,48,East Adam,COM,481320.69,Beginner
+dcd3c018,Sandra Reyes,59,South Mary,CUR,256067.11,Beginner
+dcd3c018,Sandra Reyes,59,South Mary,IDX,256067.11,Beginner
+dcd3c018,Sandra Reyes,59,South Mary,BOND,256067.11,Beginner
+382254da,Samantha Love,57,Lake Carolport,BOND,733230.05,Beginner
+382254da,Samantha Love,57,Lake Carolport,COM,733230.05,Beginner
+26df1b2d,Richard Davenport,35,West Cynthia,CUR,991627.65,Beginner
+26df1b2d,Richard Davenport,35,West Cynthia,COM,991627.65,Beginner
+12958615,Thomas Brown,29,Davidside,IDX,640025.71,Beginner
+12958615,Thomas Brown,29,Davidside,MF,640025.71,Beginner
+12958615,Thomas Brown,29,Davidside,DER,640025.71,Beginner
+200ff7a5,Timothy Fisher,51,Patrickfurt,CUR,896663.27,Beginner
+ef10baf3,Stephanie Butler,27,Mooretown,EQ,722906.65,Intermediate
+ef10baf3,Stephanie Butler,27,Mooretown,DER,722906.65,Intermediate
+ef10baf3,Stephanie Butler,27,Mooretown,MF,722906.65,Intermediate
+1f1db8ca,Ashley Bell,53,North Joshua,MF,500846.51,Beginner
+1f1db8ca,Ashley Bell,53,North Joshua,IDX,500846.51,Beginner
+2adfdfb7,Kevin Williams,22,Kellyshire,IDX,331826.2,Expert
+2adfdfb7,Kevin Williams,22,Kellyshire,DER,331826.2,Expert
+9b964be3,Christina Vazquez,59,Port Williamland,EQ,831271.8,Intermediate
+be19243f,Stacy Hickman,27,Brittanyberg,IDX,260328.13,Intermediate
+be19243f,Stacy Hickman,27,Brittanyberg,BOND,260328.13,Intermediate
+39dff80b,Pamela Schneider,53,West Jamesfort,BOND,899481.51,Intermediate
+39dff80b,Pamela Schneider,53,West Jamesfort,DER,899481.51,Intermediate
+b7e1a769,Alex Powell,45,North Williamstad,CUR,72198.21,Beginner
+06d19e24,Michele Levine,35,Joshuachester,IDX,980877.49,Intermediate
+a0f3efeb,William Lucas,29,Marymouth,BOND,37304.03,Expert
+a0f3efeb,William Lucas,29,Marymouth,COM,37304.03,Expert
+2cb6fc42,Nicole Rivers,20,New Davidside,EQ,364330.45,Expert
+2cb6fc42,Nicole Rivers,20,New Davidside,MF,364330.45,Expert
+1107a7f1,Jennifer White,27,Christopherbury,EQ,672660.4,Expert
+1107a7f1,Jennifer White,27,Christopherbury,COM,672660.4,Expert
+1107a7f1,Jennifer White,27,Christopherbury,BOND,672660.4,Expert
+9f22c292,Julia Hawkins,23,Mcmahonstad,EQ,496864.47,Beginner
+9f22c292,Julia Hawkins,23,Mcmahonstad,DER,496864.47,Beginner
+61bc83eb,James Bradley,29,South Ashleyfurt,EQ,856550.82,Beginner
+61bc83eb,James Bradley,29,South Ashleyfurt,MF,856550.82,Beginner
+61bc83eb,James Bradley,29,South Ashleyfurt,BOND,856550.82,Beginner
+db320f70,Donna Lee,26,Lake Billy,DER,88775.76,Beginner
+db320f70,Donna Lee,26,Lake Billy,EQ,88775.76,Beginner
+db320f70,Donna Lee,26,Lake Billy,CUR,88775.76,Beginner
+bb51d382,Tyler Simmons,24,North Jennifer,COM,389912.51,Beginner
+bb51d382,Tyler Simmons,24,North Jennifer,EQ,389912.51,Beginner
+9a5bc086,James Brown,38,Garyview,COM,615235.25,Intermediate
+9a5bc086,James Brown,38,Garyview,DER,615235.25,Intermediate
+5f4ab99e,Andrew Ross,34,Michaelberg,COM,822135.23,Intermediate
+5f4ab99e,Andrew Ross,34,Michaelberg,IDX,822135.23,Intermediate
+4567c87d,Joseph Reed,55,North Katherine,BOND,895558.83,Intermediate
+4567c87d,Joseph Reed,55,North Katherine,EQ,895558.83,Intermediate
+8e135c60,Michael Sullivan,46,North Jacob,IDX,553425.12,Beginner
+8e135c60,Michael Sullivan,46,North Jacob,CUR,553425.12,Beginner
+8e135c60,Michael Sullivan,46,North Jacob,DER,553425.12,Beginner
+23557689,Casey Massey,30,Lake Andrew,IDX,271445.68,Beginner
+ec731e25,Jeremy Krueger,33,Annabury,BOND,204936.46,Beginner
+ec731e25,Jeremy Krueger,33,Annabury,MF,204936.46,Beginner
+14aafca5,Joshua Ochoa,48,Port Michaelchester,CUR,607225.96,Intermediate
+14aafca5,Joshua Ochoa,48,Port Michaelchester,COM,607225.96,Intermediate
+f724b44b,Ryan Edwards,34,East Eric,CUR,543146.05,Intermediate
+f724b44b,Ryan Edwards,34,East Eric,EQ,543146.05,Intermediate
+f724b44b,Ryan Edwards,34,East Eric,MF,543146.05,Intermediate
+86a6e412,Alyssa Jackson,59,Brownville,CUR,899354.37,Expert
+86a6e412,Alyssa Jackson,59,Brownville,MF,899354.37,Expert
+86a6e412,Alyssa Jackson,59,Brownville,COM,899354.37,Expert
+134ec97f,Katherine Johnson,59,Lake Kennethview,EQ,976096.21,Expert
+134ec97f,Katherine Johnson,59,Lake Kennethview,IDX,976096.21,Expert
+268d0539,Kelsey Wiggins MD,50,New Ashlee,CUR,825059.12,Beginner
+c3734345,Stacy Larson,41,Port Tylerhaven,COM,964018.0,Intermediate
+c3734345,Stacy Larson,41,Port Tylerhaven,EQ,964018.0,Intermediate
+c3734345,Stacy Larson,41,Port Tylerhaven,DER,964018.0,Intermediate
+1b3ce4d8,James Richardson,53,East Michael,COM,668680.24,Intermediate
+1b3ce4d8,James Richardson,53,East Michael,CUR,668680.24,Intermediate
+66d7517c,David Freeman,31,Jillton,MF,263936.71,Expert
+747f9b6b,Brandi Green,33,East Markburgh,CUR,849424.98,Expert
+80974bc3,Victor Leach,30,Kimberlymouth,COM,51498.0,Beginner
+80974bc3,Victor Leach,30,Kimberlymouth,IDX,51498.0,Beginner
+80974bc3,Victor Leach,30,Kimberlymouth,CUR,51498.0,Beginner
+8c381776,Hailey Parks,44,Nicoleborough,MF,661509.41,Intermediate
+8c381776,Hailey Parks,44,Nicoleborough,COM,661509.41,Intermediate
+8e7becd8,Shelley Vasquez,49,Markside,EQ,93536.58,Beginner
+8e7becd8,Shelley Vasquez,49,Markside,BOND,93536.58,Beginner
+4097b0d2,Anthony Turner,20,Reynoldsborough,DER,728584.74,Beginner
+4097b0d2,Anthony Turner,20,Reynoldsborough,MF,728584.74,Beginner
+8b855175,Robert Foster,31,Mariachester,IDX,972854.16,Expert
+38de0c30,Jared Porter,41,Simpsonshire,COM,737098.53,Beginner
+38de0c30,Jared Porter,41,Simpsonshire,IDX,737098.53,Beginner
+38de0c30,Jared Porter,41,Simpsonshire,DER,737098.53,Beginner
+170ad7eb,Rachel Miller,41,Lewisview,BOND,502354.35,Expert
+170ad7eb,Rachel Miller,41,Lewisview,CUR,502354.35,Expert
+53dff34e,Meagan Galloway,37,Tyroneside,EQ,658780.5,Intermediate
+53dff34e,Meagan Galloway,37,Tyroneside,DER,658780.5,Intermediate
+53dff34e,Meagan Galloway,37,Tyroneside,CUR,658780.5,Intermediate
+229e0a37,Kimberly Guerrero,32,East Trevormouth,EQ,413902.72,Beginner
+229e0a37,Kimberly Guerrero,32,East Trevormouth,MF,413902.72,Beginner
+9ace8f1e,Connor Armstrong,56,Michaelland,IDX,809907.81,Intermediate
+9ace8f1e,Connor Armstrong,56,Michaelland,MF,809907.81,Intermediate
+9ace8f1e,Connor Armstrong,56,Michaelland,DER,809907.81,Intermediate
+85b0ac89,Sonya Smith,50,West Brian,IDX,418438.76,Intermediate
+85b0ac89,Sonya Smith,50,West Brian,COM,418438.76,Intermediate
+85b0ac89,Sonya Smith,50,West Brian,CUR,418438.76,Intermediate
+703b1460,David Lopez,21,Ryanberg,DER,871895.66,Expert
+703b1460,David Lopez,21,Ryanberg,CUR,871895.66,Expert
+703b1460,David Lopez,21,Ryanberg,BOND,871895.66,Expert
+fd0df310,David Donovan,54,Marksshire,BOND,576496.34,Expert
+7e37a2d8,Jesse Jenkins,54,Melindachester,DER,494182.02,Expert
+f1cfdab0,Sharon Cox,22,South Benjamin,MF,862000.6,Expert
+f1cfdab0,Sharon Cox,22,South Benjamin,DER,862000.6,Expert
+f1cfdab0,Sharon Cox,22,South Benjamin,IDX,862000.6,Expert
+ff037d60,Grace Yu,57,Lake Jessicaland,BOND,475598.85,Expert
+918e3ece,Zachary Moreno,27,Mooreshire,CUR,266917.87,Intermediate
+918e3ece,Zachary Moreno,27,Mooreshire,DER,266917.87,Intermediate
+f28bb17a,Ann Dixon,31,Crystalchester,BOND,865263.95,Expert
+f28bb17a,Ann Dixon,31,Crystalchester,EQ,865263.95,Expert
+1089a2c7,Steven Moore,24,North Ashley,MF,858758.47,Beginner
+a311c07f,Vanessa Stephens,23,Frenchmouth,MF,816059.87,Beginner
+a311c07f,Vanessa Stephens,23,Frenchmouth,EQ,816059.87,Beginner
+a311c07f,Vanessa Stephens,23,Frenchmouth,CUR,816059.87,Beginner
+254c6296,Charles Edwards,29,Lake Kathleen,DER,986675.88,Beginner
+92fc6b18,Blake Hunter,56,New Makaylastad,MF,870524.35,Beginner
+92fc6b18,Blake Hunter,56,New Makaylastad,DER,870524.35,Beginner
+23ed981b,Jamie Garner,39,New Davidview,IDX,587714.04,Beginner
+23ed981b,Jamie Garner,39,New Davidview,DER,587714.04,Beginner
+f49f79c1,Kimberly Erickson,35,Lake Adamburgh,COM,11430.18,Intermediate
+f49f79c1,Kimberly Erickson,35,Lake Adamburgh,CUR,11430.18,Intermediate
+86f0a037,Cynthia Miller,21,New Patrick,BOND,80687.11,Expert
+53119982,Brian Walker,28,New Kevinside,EQ,891013.12,Expert
+53119982,Brian Walker,28,New Kevinside,DER,891013.12,Expert
+137313a5,Sara Mcknight,58,Espinozahaven,IDX,171414.19,Beginner
+137313a5,Sara Mcknight,58,Espinozahaven,CUR,171414.19,Beginner
+f2a4386f,Jennifer Bowman,20,Port Justin,IDX,23279.6,Intermediate
+f2a4386f,Jennifer Bowman,20,Port Justin,EQ,23279.6,Intermediate
+f2a4386f,Jennifer Bowman,20,Port Justin,DER,23279.6,Intermediate
+085558fc,Lisa Pierce,59,West Erica,EQ,949123.97,Beginner
+f2231829,Jackson Stevens,40,Grayview,CUR,22907.06,Beginner
+c7e4391b,Erik Parker,45,Rickyborough,DER,954072.83,Intermediate
+fffae999,Amy Peck DVM,45,Aliciaborough,COM,208381.85,Expert
+fffae999,Amy Peck DVM,45,Aliciaborough,MF,208381.85,Expert
+0d16efa7,Brianna West,27,Isabellachester,EQ,274797.74,Beginner
+0d16efa7,Brianna West,27,Isabellachester,IDX,274797.74,Beginner
+0d16efa7,Brianna West,27,Isabellachester,COM,274797.74,Beginner
+b6e61b82,Nicole May,42,Phillipfurt,MF,567496.72,Beginner
+237b170a,Ann Turner,33,Justinview,COM,580832.54,Expert
+baf08f2c,Richard Johnson,41,New Ethan,BOND,430951.44,Expert
+6ce36b4c,Vanessa Hernandez,21,Aaronside,BOND,731141.29,Intermediate
+6ce36b4c,Vanessa Hernandez,21,Aaronside,COM,731141.29,Intermediate
+b592c0ec,Derrick Norris,37,Blairfurt,COM,401796.88,Intermediate
+b592c0ec,Derrick Norris,37,Blairfurt,EQ,401796.88,Intermediate
+b592c0ec,Derrick Norris,37,Blairfurt,BOND,401796.88,Intermediate
+6f1c5467,Gary Taylor,56,South Patriciachester,DER,223571.56,Intermediate
+e1bbb762,Kristin Gomez,40,North Perry,CUR,494102.42,Intermediate
+896aa20f,Manuel Stone,45,East Ethanfurt,EQ,863052.87,Expert
+896aa20f,Manuel Stone,45,East Ethanfurt,IDX,863052.87,Expert
+896aa20f,Manuel Stone,45,East Ethanfurt,CUR,863052.87,Expert
+b1401df1,Margaret Butler,56,Dyershire,BOND,143351.53,Expert
+13be4f0a,Michael Oliver,47,Holmesborough,CUR,272456.4,Expert
+13be4f0a,Michael Oliver,47,Holmesborough,COM,272456.4,Expert
+cfee0a0f,David Graves,27,East Samantha,CUR,514821.18,Intermediate
+cfee0a0f,David Graves,27,East Samantha,MF,514821.18,Intermediate
+a7842df9,Brandon Durham,40,South Joshua,DER,861339.44,Intermediate
+a7842df9,Brandon Durham,40,South Joshua,CUR,861339.44,Intermediate
+a979623c,Chad Hancock,58,East Davidtown,CUR,879472.03,Expert
+a979623c,Chad Hancock,58,East Davidtown,IDX,879472.03,Expert
+a979623c,Chad Hancock,58,East Davidtown,EQ,879472.03,Expert
+1850a7bc,Jeremy King,23,Rhodesstad,IDX,559816.52,Beginner
+e8cd289b,Ivan Smith,30,Andersonchester,MF,354882.09,Beginner
+2e6286a5,Keith Lee,51,Vickieside,IDX,341183.62,Beginner
+82b47548,Jenna Jones,24,Pattersonport,CUR,214009.66,Intermediate
+3c72dfb7,George Wood,30,Medinatown,EQ,821208.73,Beginner
+6c8a36b9,Tammy Clark,21,Castilloville,CUR,660258.62,Expert
+6c8a36b9,Tammy Clark,21,Castilloville,MF,660258.62,Expert
+6c8a36b9,Tammy Clark,21,Castilloville,DER,660258.62,Expert
+70fec4bb,Brandon Long,28,South Christopherbury,IDX,38869.24,Expert
+ef5d98ec,James Thomas,23,East Leroyton,COM,656222.87,Expert
+8255e621,Patricia Butler,51,Normanfurt,DER,733080.47,Beginner
+8255e621,Patricia Butler,51,Normanfurt,IDX,733080.47,Beginner
+8255e621,Patricia Butler,51,Normanfurt,BOND,733080.47,Beginner
+bd005f0d,James Roberts,46,Shelbyberg,IDX,38432.95,Expert
+7e6185d7,Jill Weaver,44,South Josephborough,COM,821787.31,Intermediate
+8cc6cab8,Tyler Brooks,44,East Stephen,BOND,22880.11,Expert
+8cc6cab8,Tyler Brooks,44,East Stephen,DER,22880.11,Expert
+15999f05,Kelly Smith,39,Port Melanie,EQ,384915.83,Beginner
+15999f05,Kelly Smith,39,Port Melanie,IDX,384915.83,Beginner
+15999f05,Kelly Smith,39,Port Melanie,DER,384915.83,Beginner
+277904d0,Christopher Cohen,21,Matthewfort,IDX,833392.8,Beginner
+277904d0,Christopher Cohen,21,Matthewfort,COM,833392.8,Beginner
+277904d0,Christopher Cohen,21,Matthewfort,CUR,833392.8,Beginner
+9cbb6cc7,Brittany Beck,51,East Christina,BOND,986463.08,Beginner
+9cbb6cc7,Brittany Beck,51,East Christina,IDX,986463.08,Beginner
+64b475bc,Alicia Johnson,52,Turnertown,IDX,32837.63,Intermediate
+64b475bc,Alicia Johnson,52,Turnertown,COM,32837.63,Intermediate
+64b475bc,Alicia Johnson,52,Turnertown,MF,32837.63,Intermediate
+077278af,Tiffany Rodriguez,34,Brandonland,COM,945459.07,Beginner
+66a30b08,Lisa Gutierrez,21,West Leslie,EQ,670316.77,Expert
+66a30b08,Lisa Gutierrez,21,West Leslie,IDX,670316.77,Expert
+66a30b08,Lisa Gutierrez,21,West Leslie,CUR,670316.77,Expert
+91df0cec,Carla Gilbert,36,Staceychester,IDX,695257.9,Beginner
+91df0cec,Carla Gilbert,36,Staceychester,DER,695257.9,Beginner
+fc57bbd3,Elizabeth Stevens,37,Ellisview,DER,908092.06,Intermediate
+11c4e95a,Angela Weber,21,Jacksonbury,IDX,28351.87,Expert
+11c4e95a,Angela Weber,21,Jacksonbury,DER,28351.87,Expert
+232fea57,Catherine Nelson,23,Port Carlosfort,MF,762494.9,Expert
+232fea57,Catherine Nelson,23,Port Carlosfort,DER,762494.9,Expert
+232fea57,Catherine Nelson,23,Port Carlosfort,IDX,762494.9,Expert
+0f482ea1,Jessica Pittman,34,South Christopher,BOND,976523.37,Expert
+0f482ea1,Jessica Pittman,34,South Christopher,MF,976523.37,Expert
+556f488f,Sean Ward,54,East Franciscobury,EQ,803818.36,Intermediate
+556f488f,Sean Ward,54,East Franciscobury,COM,803818.36,Intermediate
+556f488f,Sean Ward,54,East Franciscobury,DER,803818.36,Intermediate
+a99a3905,Lindsey Gould,58,East Christopherhaven,COM,17555.21,Beginner
+a99a3905,Lindsey Gould,58,East Christopherhaven,BOND,17555.21,Beginner
+b647908a,Sarah Walker,26,Smithview,IDX,866475.73,Intermediate
+94258f0c,Holly Tucker,59,West Tyler,EQ,327707.06,Beginner
+90b82f19,Amanda Charles,54,Bradleyberg,BOND,557857.74,Expert
+bf8f8df1,Ronald Barrera,39,West Craig,MF,244836.61,Beginner
+e0b9966b,Deborah Garcia,37,Jenniferchester,MF,823984.06,Expert
+e0b9966b,Deborah Garcia,37,Jenniferchester,CUR,823984.06,Expert
+e0b9966b,Deborah Garcia,37,Jenniferchester,EQ,823984.06,Expert
+73e7b04c,Jordan Lamb,43,Amytown,EQ,472541.02,Expert
+ea039aaa,Amber Bishop,40,Lake Melissaland,BOND,437747.86,Expert
+c5cca4e2,Paul Young,23,East Mindyton,EQ,99469.72,Beginner
+c5cca4e2,Paul Young,23,East Mindyton,CUR,99469.72,Beginner
+ee9a16a5,Miss Elizabeth Patton,31,East Toddborough,DER,201858.06,Expert
+ee9a16a5,Miss Elizabeth Patton,31,East Toddborough,IDX,201858.06,Expert
+6e8e6559,Amanda Murphy,52,Mcneilchester,CUR,752606.05,Expert
+28354a6b,Sandra Thomas,43,Heidiville,DER,793378.01,Expert
+b5322636,Crystal Mcclure,49,Port Katherineport,COM,31417.29,Beginner
+15597ec3,David White,56,Moorechester,COM,815286.71,Intermediate
+15597ec3,David White,56,Moorechester,EQ,815286.71,Intermediate
+15597ec3,David White,56,Moorechester,IDX,815286.71,Intermediate
+97bcf176,Sarah Murillo,25,Powelltown,BOND,935015.27,Intermediate
+ebee594b,Bryce Spencer,23,East David,CUR,996549.68,Beginner
+ebee594b,Bryce Spencer,23,East David,EQ,996549.68,Beginner
+ebee594b,Bryce Spencer,23,East David,IDX,996549.68,Beginner
+3001c948,James Carter,43,Jessicaview,COM,72696.87,Expert
+3001c948,James Carter,43,Jessicaview,EQ,72696.87,Expert
+3001c948,James Carter,43,Jessicaview,IDX,72696.87,Expert
+e6afb8e4,Jacqueline Bailey,23,Port Curtisville,EQ,437446.6,Expert
+bcdcdf55,Nathan Burgess,22,West Kimberly,IDX,418913.07,Beginner
+bcdcdf55,Nathan Burgess,22,West Kimberly,DER,418913.07,Beginner
+bcdcdf55,Nathan Burgess,22,West Kimberly,BOND,418913.07,Beginner
+f93d54dc,Ashley Hatfield,32,New Ronnietown,COM,626052.23,Intermediate
+f93d54dc,Ashley Hatfield,32,New Ronnietown,MF,626052.23,Intermediate
+f93d54dc,Ashley Hatfield,32,New Ronnietown,BOND,626052.23,Intermediate
+90027fce,Destiny Hinton,51,Brittanychester,DER,720056.29,Intermediate
+90027fce,Destiny Hinton,51,Brittanychester,IDX,720056.29,Intermediate
+90027fce,Destiny Hinton,51,Brittanychester,BOND,720056.29,Intermediate
+c9452612,David Pruitt,33,West Leonardborough,DER,205998.0,Beginner
+d8e47a76,Andrea Ferguson,21,Mccoymouth,DER,178164.52,Expert
+d8e47a76,Andrea Ferguson,21,Mccoymouth,IDX,178164.52,Expert
